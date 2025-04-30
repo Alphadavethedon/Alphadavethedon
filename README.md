@@ -114,20 +114,27 @@ mindmap
 </div>
 
 ---
+### [Mobile Money Fraud Detection Real-Time Data Pipeline](https://github.com/Alphadavethedon/Mobile-Money-Fraud-Detection-Real-Time-Data-Pipeline)
+An end-to-end real-time fraud detection pipeline simulating M-Pesa-like transactions using Kafka, Spark, Airflow, MLflow, and Streamlit.
 
-## 🚀 Featured Projects
+### [E-commerce Database Design](https://github.com/Alphadavethedon/E-commerce-database-design)
+A scalable and normalized relational database schema for an e-commerce platform, complete with ERDs and SQL scripts for deployment.
 
-### 🌐 Cloud-Native Platforms
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alphadavethedon&repo=cloud-native-platform&theme=radical)](https://github.com/Alphadavethedon/cloud-native-platform)
+### [Road Traffic Accidents EDA Case Study](https://github.com/Alphadavethedon/Road-Traffic-Accidents-EDA/blob/main/Exploratory_Data_Analysis_(EDA)_Case_Study_Road_Traffic_Accidents.ipynb)
+A comprehensive exploratory data analysis of road traffic accidents using Pandas, Seaborn, and Matplotlib to uncover trends and correlations.
 
-### 🤖 AI/ML Systems
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alphadavethedon&repo=mlops-pipeline&theme=radical)](https://github.com/Alphadavethedon/mlops-pipeline)
+### [Distributed Task Orchestrator](https://github.com/Alphadavethedon/task-orchestrator)
+Scalable task queue built with Redis, Go, and Kubernetes to enable distributed, fault-tolerant workflow orchestration.
 
-### 🔐 Security Tools
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alphadavethedon&repo=zero-trust-proxy&theme=radical)](https://github.com/Alphadavethedon/zero-trust-proxy)
+### [Cloud Cost Optimizer](https://github.com/Alphadavethedon/cloud-optimizer)
+AI-powered toolkit that applies ML and real-time analytics to reduce multi-cloud infrastructure costs.
 
-### ⚡ Performance Engineering
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alphadavethedon&repo=high-performance-api&theme=radical)](https://github.com/Alphadavethedon/high-performance-api)
+### [Zero Trust Proxy](https://github.com/Alphadavethedon/zero-trust-proxy)
+A security proxy inspired by Google's BeyondCorp, integrated with Keycloak and Istio to enforce Zero Trust principles.
+
+### [AI-Driven Log Analyzer](https://github.com/Alphadavethedon/log-analyzer)
+Log analysis tool that uses NLP (Hugging Face transformers) and Elasticsearch to extract insights from large-scale logs.
+
 
 ---
 
