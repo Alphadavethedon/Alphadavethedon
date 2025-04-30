@@ -157,7 +157,7 @@ Dynamic polyglot developer with over 5 years of experience architecting, deployi
 ## 📫 Connect With Me
 - ✉️ **Email**: [davewabwile@gmail.com](mailto:davewabwile@gmail.com)
 - 🔗 **LinkedIn**: [Davis Wabwile](https://linkedin.com/in/daviswabwile)
-- 🌐 **Portfolio**: [daviswabwile.tech](https://daviswabwile.tech)
+- 🌐 **Portfolio**:(https://alphadavethedon.github.io/Davis-portfolio/))
 - 📝 **Tech Blog**: [medium.com/@daviswabwile](https://medium.com/@daviswabwile)
 - 🐦 **X Profile**: [x.com/Alphadavethedon](https://x.com/Alphadavethedon)
 
