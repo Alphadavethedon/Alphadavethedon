@@ -140,29 +140,28 @@ Dynamic polyglot developer with over 5 years of experience architecting, deployi
 ---
 
 ## 🏗️ Featured Projects
-###**Mobile-Money-Fraud-Detection-Real-Time-Data-Pipeline**###
-[https://github.com/Alphadavethedon/Mobile-Money-Fraud-Detection-Real-Time-Data-Pipeline]
 
-####**E-commerce-database-design**###
-[https://github.com/Alphadavethedon/E-commerce-database-design]
+### [Mobile Money Fraud Detection Real-Time Data Pipeline](https://github.com/Alphadavethedon/Mobile-Money-Fraud-Detection-Real-Time-Data-Pipeline)
+An end-to-end real-time fraud detection pipeline simulating M-Pesa-like transactions using Kafka, Spark, Airflow, MLflow, and Streamlit.
 
-####**Exploratory_Data_Analysis_(EDA)_Case_Study_Road_Traffic_Accidents.ipynb**###
+### [E-commerce Database Design](https://github.com/Alphadavethedon/E-commerce-database-design)
+A scalable and normalized relational database schema for an e-commerce platform, complete with ERDs and SQL scripts for deployment.
 
-[https://github.com/Alphadavethedon/Road-Traffic-Accidents-EDA/blob/main/Exploratory_Data_Analysis_(EDA)_Case_Study_Road_Traffic_Accidents.ipynb]
+### [Road Traffic Accidents EDA Case Study](https://github.com/Alphadavethedon/Road-Traffic-Accidents-EDA/blob/main/Exploratory_Data_Analysis_(EDA)_Case_Study_Road_Traffic_Accidents.ipynb)
+A comprehensive exploratory data analysis of road traffic accidents using Pandas, Seaborn, and Matplotlib to uncover trends and correlations.
 
 ### [Distributed Task Orchestrator](https://github.com/Alphadavethedon/task-orchestrator)
- Scalable task queue built with Redis, Go, and Kubernetes for fault-tolerant workflows.
+Scalable task queue built with Redis, Go, and Kubernetes to enable distributed, fault-tolerant workflow orchestration.
 
 ### [Cloud Cost Optimizer](https://github.com/Alphadavethedon/cloud-optimizer)
- AI-powered toolkit for multi-cloud cost optimization using ML and real-time analytics.
+AI-powered toolkit that applies ML and real-time analytics to reduce multi-cloud infrastructure costs.
 
 ### [Zero Trust Proxy](https://github.com/Alphadavethedon/zero-trust-proxy)
- BeyondCorp-inspired secure access proxy with Keycloak and Istio integration.
+A security proxy inspired by Google's BeyondCorp, integrated with Keycloak and Istio to enforce Zero Trust principles.
 
 ### [AI-Driven Log Analyzer](https://github.com/Alphadavethedon/log-analyzer)
- NLP-based log analysis tool leveraging Hugging Face models and Elasticsearch.
+Log analysis tool that uses NLP (Hugging Face transformers) and Elasticsearch to extract insights from large-scale logs.
 
----
 
 ## 📫 Connect With Me
 - ✉️ **Email**: [davewabwile@gmail.com](mailto:davewabwile@gmail.com)
