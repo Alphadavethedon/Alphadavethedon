@@ -106,14 +106,36 @@ Dynamic polyglot developer with over 5 years of experience architecting, deployi
 
 ---
 
-## 🏆 Certifications
-- 🏅 **AWS Certified Solutions Architect - Professional**
-- 🏅 **Certified Kubernetes Administrator (CKA)**
-- 🏅 **Google Professional Cloud Architect**
-- 🏅 **HashiCorp Certified: Terraform Associate**
-- 🏅 **Certified Information Systems Security Professional (CISSP)**
-- 🏅 **Microsoft Certified: Azure Solutions Architect Expert**
-- 🏅 **Databricks Certified Data Engineer Professional**
+Certifications & Awards
+A comprehensive list of my professional certifications and awards, showcasing expertise in cybersecurity, cloud computing, data science, and more.
+🏆 Certifications
+
+Certified Information Systems Security Professional (CISSP) - Alison
+AWS Certified Solutions Architect (Student) - Amazon Web Services
+Databricks Certified Data Engineer Professional - Databricks
+AWS DevOps - Amazon Web Services
+AZ-104 (Azure Administrator) - Microsoft Learn
+Network Addressing and Basic Troubleshooting - Cisco
+Introduction to Cyber Security - Cisco
+Cyber Security in Cloud Environments - Moringa School
+Endpoint Security - Cisco
+Security Compliance - UEMS
+ITIL - Udemy
+Endpoint Central - ZOHO
+GNS3 - GNS3 Academy
+Asterisk Certified Professional - Asterisk
+Data Science - Martial School of IT
+Data Analytics - Martial School of IT
+Software Engineering - Power Academy
+Graphic Design - Canva
+Product Designer - Figma
+Social Media Marketing - HubSpot Academy
+
+🏅 Awards & Activities
+
+Kaggle Python Coder Badge - View Badge
+Kaggle Collector’s Badge - View Badge
+
 
 ---
 
