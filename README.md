@@ -141,26 +141,26 @@ Dynamic polyglot developer with over 5 years of experience architecting, deployi
 
 ## 🏗️ Featured Projects
 ###**Mobile-Money-Fraud-Detection-Real-Time-Data-Pipeline**###
-https://github.com/Alphadavethedon/Mobile-Money-Fraud-Detection-Real-Time-Data-Pipeline
+[https://github.com/Alphadavethedon/Mobile-Money-Fraud-Detection-Real-Time-Data-Pipeline]
 
 ####**E-commerce-database-design**###
-https://github.com/Alphadavethedon/E-commerce-database-design
+[https://github.com/Alphadavethedon/E-commerce-database-design]
 
 ####**Exploratory_Data_Analysis_(EDA)_Case_Study_Road_Traffic_Accidents.ipynb**###
 
-https://github.com/Alphadavethedon/Road-Traffic-Accidents-EDA/blob/main/Exploratory_Data_Analysis_(EDA)_Case_Study_Road_Traffic_Accidents.ipynb
+[https://github.com/Alphadavethedon/Road-Traffic-Accidents-EDA/blob/main/Exploratory_Data_Analysis_(EDA)_Case_Study_Road_Traffic_Accidents.ipynb]
 
 ### [Distributed Task Orchestrator](https://github.com/Alphadavethedon/task-orchestrator)
-⚡ Scalable task queue built with Redis, Go, and Kubernetes for fault-tolerant workflows.
+ Scalable task queue built with Redis, Go, and Kubernetes for fault-tolerant workflows.
 
 ### [Cloud Cost Optimizer](https://github.com/Alphadavethedon/cloud-optimizer)
-💰 AI-powered toolkit for multi-cloud cost optimization using ML and real-time analytics.
+ AI-powered toolkit for multi-cloud cost optimization using ML and real-time analytics.
 
 ### [Zero Trust Proxy](https://github.com/Alphadavethedon/zero-trust-proxy)
-🔒 BeyondCorp-inspired secure access proxy with Keycloak and Istio integration.
+ BeyondCorp-inspired secure access proxy with Keycloak and Istio integration.
 
 ### [AI-Driven Log Analyzer](https://github.com/Alphadavethedon/log-analyzer)
-🧠 NLP-based log analysis tool leveraging Hugging Face models and Elasticsearch.
+ NLP-based log analysis tool leveraging Hugging Face models and Elasticsearch.
 
 ---
 
