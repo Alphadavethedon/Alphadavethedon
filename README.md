@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Davis (a.k.a. Alphadavethedon)
+# 👋 Hi, I'm Davis (a.k.a. Don Dave)
 
 🚀 **Fullstack Developer** | 🛠️ **Backend Engineer** | 🧪 **Software Tester in Training** | 💾 **Data Engineer** | 💻 **IT Support Specialist**
 
@@ -63,7 +63,7 @@ I'm a passionate and multi-skilled tech enthusiast dedicated to building scalabl
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Current Upskilling
 - Advanced System Design
 - Testing Automation
 - Flutter (Mobile & Web)
@@ -81,7 +81,7 @@ I'm a passionate and multi-skilled tech enthusiast dedicated to building scalabl
 ## 📫 Connect With Me
 - Email: davewabwile@gmail.com
 - LinkedIn: [Davis Wabwile](https://linkedin.com/in/daviswabwile)
-- Portfolio Website: Coming soon!
+- Portfolio Website: https://alphadavethedon.github.io/Davis-portfolio
 
 ---
 
