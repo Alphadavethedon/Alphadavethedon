@@ -1,7 +1,7 @@
 
 # 👨‍💻 Davis Wabwile (a.k.a. Don Dave)
 
-## 🚀 Cloud-Native Engineer & AI Solutions Architect
+## 🚀 Cloud-Native Engineer, Fullstack Developer & AI Solutions Architect
 **Multi-Cloud Specialist** | **Distributed Systems Expert** | **MLOps Engineer** | **Security Champion**
 
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
