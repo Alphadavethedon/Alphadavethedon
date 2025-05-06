@@ -1,13 +1,14 @@
 
-# 
 <p align="center">
-  <img src="https://github.com/Alphadavethedon.png" alt="Profile Picture" width="120" height="120">
+  <img src="https://github.com/Alphadavethedon.png" width="120" height="120" style="border-radius: 50%; border: 2px solid #4CAF50;" />
 </p>
-# DAVIS WABWILE (DON DAVE)
 
+<h1 align="center">👨🏾‍💻 DAVIS WABWILE — <i>aka Don Dave</i> ⚡</h1>
 
-##  Cloud-Native Engineer, Fullstack Developer & AI Solutions Architect
-**Multi-Cloud Specialist** | **Distributed Systems Expert** | **MLOps Engineer** | **Security Champion**
+<p align="center">
+  <b>Tech-Nerd |  Fullstack Developer & AI Solutions Architect | Cybersecurity Analyst |MLOps Engineer | DevOps Explorer</b><br>
+  <i>"Building, breaking, and rebuilding stuff in the cloud ☁️"</i>
+</p>
 
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
 [![Repos](https://badges.pufler.dev/repos/Alphadavethedon?color=blue&style=flat)](https://github.com/Alphadavethedon?tab=repositories)
