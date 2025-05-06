@@ -15,7 +15,7 @@
   </p>
 </div>
 
-<di
+
 
 <!-- Divider -->
 <hr style="border: 0.5px solid #4CAF50; width: 60%;" />
