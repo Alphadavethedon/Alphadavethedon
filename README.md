@@ -1,5 +1,8 @@
 
-#  Dave Wabwile 
+#  Dave Wabwile <p align="center">
+  <img src="https://github.com/Alphadavethedon.png" alt="Profile Picture" width="120" height="120" style="border-radius: 50%; border: 2px solid #ccc;" />
+</p>
+
 
 ##  Cloud-Native Engineer, Fullstack Developer & AI Solutions Architect
 **Multi-Cloud Specialist** | **Distributed Systems Expert** | **MLOps Engineer** | **Security Champion**
