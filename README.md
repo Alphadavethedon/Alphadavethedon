@@ -1,4 +1,4 @@
-<!-<!-- Background with Fading Effect -->
+<!-- Background with Fading Effect -->
 <div style="background: url('https://images.unsplash.com/photo-1532635095-2f8b3e2d8b8d') no-repeat center center fixed; 
             background-size: cover; 
             height: 100vh; 
