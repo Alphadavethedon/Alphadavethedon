@@ -1,8 +1,9 @@
 
-#  <p align="center">
+# 
+<p align="center">
   <img src="https://github.com/Alphadavethedon.png" alt="Profile Picture" width="120" height="120">
 </p>
- DAVIS WABWILE (DON DAVE)
+# DAVIS WABWILE (DON DAVE)
 
 
 ##  Cloud-Native Engineer, Fullstack Developer & AI Solutions Architect
