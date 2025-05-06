@@ -1,5 +1,5 @@
 <!-- Background with Fading Effect -->
-<div style="background: url('https://raw.githubusercontent.com/Alphadavethedon/Alphadavethedon/fb683bd92c963ca7c9c6936ff8e417f2e5f73b78/ruddy-corporan-tZH8xyGGMHE-unsplash.jpg') no-repeat center center fixed; 
+<div style="background: url('https://images.unsplash.com/photo-1517430816045-df4b3d52f29e') no-repeat center center fixed; 
             background-size: cover; 
             height: 100vh; 
             position: relative;">
