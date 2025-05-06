@@ -5,7 +5,7 @@
 </p>
 
 <!-- Name & Tagline -->
-<h1 align="center">👨🏾‍💻 <strong>DAVIS WABWILE</strong> — <i>aka Don Dave</i> ⚡</h1>
+<h1 align="center"> <strong>DAVIS WABWILE</strong> — <i>aka Don Dave</i> </h1>
 
 <!-- Professional Titles -->
 <p align="center">
