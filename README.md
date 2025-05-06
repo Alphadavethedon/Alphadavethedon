@@ -1,15 +1,29 @@
 
+<!-- Profile Picture -->
 <p align="center">
-  <img src="https://github.com/Alphadavethedon.png" width="120" height="120" style="border-radius: 50%; border: 2px solid #4CAF50;" />
+  <img src="https://github.com/Alphadavethedon.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #4CAF50;" />
 </p>
 
-<h1 align="center">👨🏾‍💻 DAVIS WABWILE — <i>aka Don Dave</i> ⚡</h1>
+<!-- Name & Tagline -->
+<h1 align="center">👨🏾‍💻 <strong>DAVIS WABWILE</strong> — <i>aka Don Dave</i> ⚡</h1>
 
+<!-- Professional Titles -->
 <p align="center">
-  <b>Tech-Nerd |  Fullstack Developer & AI Solutions Architect | Cybersecurity Analyst |MLOps Engineer | DevOps Explorer</b><br>
-  <i>"Building, breaking, and rebuilding stuff in the cloud ☁️"</i>
+  <strong>💻 Fullstack Developer</strong> &nbsp;|&nbsp; 
+  <strong>🧠 AI Solutions Architect</strong> &nbsp;|&nbsp; 
+  <strong>🔐 Cybersecurity Analyst</strong> <br>
+  <strong>🚀 MLOps Engineer</strong> &nbsp;|&nbsp; 
+  <strong>⚙️ DevOps Explorer</strong> &nbsp;|&nbsp; 
+  <strong>📊 Data Engineering Enthusiast</strong>
 </p>
 
+<!-- Mission Statement -->
+<p align="center">
+  <em>“Building, breaking, and rebuilding intelligent systems in the cloud ☁️ with a touch of madness and mastery.”</em>
+</p>
+
+<!-- Divider -->
+<hr style="border: 0.5px solid #4CAF50; width: 60%;" />
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
 [![Repos](https://badges.pufler.dev/repos/Alphadavethedon?color=blue&style=flat)](https://github.com/Alphadavethedon?tab=repositories)
 [![Years](https://badges.pufler.dev/years/Alphadavethedon?color=blue&style=flat)](https://github.com/Alphadavethedon)
