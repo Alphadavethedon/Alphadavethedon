@@ -17,6 +17,8 @@
 
 <!-- Divider -->
 <hr style="border: 0.5px solid #4CAF50; width: 60%;" />
+![Tech Banner](https://images.unsplash.com/photo-1517430816045-df4b3d52f29e)
+
 
 
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
