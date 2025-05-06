@@ -14,7 +14,7 @@
     <p><em>“Building, breaking, and rebuilding intelligent systems in the cloud ☁️ with a touch of madness and mastery.”</em></p>
   </p>
 </div>
-- Background with Fading Effect -->
+
 <di
 
 <!-- Divider -->
