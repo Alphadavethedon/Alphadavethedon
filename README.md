@@ -1,26 +1,19 @@
-
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://github.com/Alphadavethedon.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #4CAF50;" />
-</p>
-
-<!-- Name & Tagline -->
-<h1 align="center"> <strong>DAVIS WABWILE</strong> — <i>aka Don Dave</i> </h1>
-
-<!-- Professional Titles -->
-<p align="center">
-  <strong>💻 Fullstack Developer</strong> &nbsp;|&nbsp; 
-  <strong>🧠 AI Solutions Architect</strong> &nbsp;|&nbsp; 
-  <strong>🔐 Cybersecurity Analyst</strong> <br>
-  <strong>🚀 MLOps Engineer</strong> &nbsp;|&nbsp; 
-  <strong>⚙️ DevOps Explorer</strong> &nbsp;|&nbsp; 
-  <strong>📊 Data Engineering Enthusiast</strong>
-</p>
-
-<!-- Mission Statement -->
-<p align="center">
-  <em>“Building, breaking, and rebuilding intelligent systems in the cloud ☁️ with a touch of madness and mastery.”</em>
-</p>
+<!-- Background with Fading Effect -->
+<div style="background: url('https://raw.githubusercontent.com/Alphadavethedon/Alphadavethedon/fb683bd92c963ca7c9c6936ff8e417f2e5f73b78/ruddy-corporan-tZH8xyGGMHE-unsplash.jpg') no-repeat center center fixed; 
+            background-size: cover; 
+            height: 100vh; 
+            position: relative;">
+  <!-- Fading Overlay -->
+  <div style="background-color: rgba(0, 0, 0, 0.5); height: 100%; width: 100%; position: absolute; top: 0; left: 0;"></div>
+  
+  <!-- Content Over Background -->
+  <p align="center" style="position: relative; color: white; padding-top: 200px;">
+    <img src="https://github.com/Alphadavethedon.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #4CAF50;" />
+    <h1>👨🏾‍💻 <strong>DAVIS WABWILE</strong> — <i>aka Don Dave</i> ⚡</h1>
+    <p><strong>💻 Fullstack Developer</strong> &nbsp;|&nbsp; <strong>🧠 AI Solutions Architect</strong> &nbsp;|&nbsp; <strong>🔐 Cybersecurity Analyst</strong></p>
+    <p><em>“Building, breaking, and rebuilding intelligent systems in the cloud ☁️ with a touch of madness and mastery.”</em></p>
+  </p>
+</div>
 
 <!-- Divider -->
 <hr style="border: 0.5px solid #4CAF50; width: 60%;" />
