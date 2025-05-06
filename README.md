@@ -7,9 +7,8 @@
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
 [![Repos](https://badges.pufler.dev/repos/Alphadavethedon?color=blue&style=flat)](https://github.com/Alphadavethedon?tab=repositories)
 [![Years](https://badges.pufler.dev/years/Alphadavethedon?color=blue&style=flat)](https://github.com/Alphadavethedon)
-<p align="center">
-  <img src="assets/IMG_20240322_145116.jpg" alt="Profile Picture" width="120" height="120" style="border-radius: 50%; border: 2px solid #ccc;" />
-</p>
+![Profile Picture](https://github.com/Alphadavethedon.png)
+
 
 
 ---
