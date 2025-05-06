@@ -1,7 +1,8 @@
 
 #  Dave Wabwile <p align="center">
-  <img src="https://github.com/Alphadavethedon.png" alt="Profile Picture" width="120" height="120" style="border-radius: 50%; border: 2px solid #ccc;" />
+  <img src="https://github.com/Alphadavethedon.png" alt="Profile Picture" width="120" height="120">
 </p>
+
 
 
 ##  Cloud-Native Engineer, Fullstack Developer & AI Solutions Architect
@@ -10,7 +11,6 @@
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
 [![Repos](https://badges.pufler.dev/repos/Alphadavethedon?color=blue&style=flat)](https://github.com/Alphadavethedon?tab=repositories)
 [![Years](https://badges.pufler.dev/years/Alphadavethedon?color=blue&style=flat)](https://github.com/Alphadavethedon)
-![Profile Picture](https://github.com/Alphadavethedon.png)
 
 
 
