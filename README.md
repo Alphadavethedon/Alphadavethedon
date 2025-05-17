@@ -162,6 +162,7 @@ Log analysis tool that uses NLP (Hugging Face transformers) and Elasticsearch to
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building Quantum-Resistant Cryptography in Go](https://medium.com/@davewabwile)
+- [Modern Back-End systems](https://medium.com/@davewabwile/mastering-modern-backend-systems-a-practical-guide-to-apis-architecture-and-scalability-02f6501f7792)
 - [MLOps at Scale with Kubeflow 2.0](https://medium.com/@davewabwile)
 - [Zero Trust Architectures for Kubernetes](https://medium.com/@davewabwile)
 <!-- BLOG-POST-LIST:END -->
