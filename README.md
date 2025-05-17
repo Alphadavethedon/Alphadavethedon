@@ -9,7 +9,7 @@
   <!-- Content Over Background -->
   <p align="center" style="position: relative; color: white; padding-top: 200px;">
     <img src="https://github.com/Alphadavethedon.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #4CAF50;" />
-    <h1>👨🏾‍💻 DAVIS WABWILE — <i>aka Don Dave</i> ⚡</h1>
+    <h1>👨🏾‍💻 DAVIS WABWILE — <i>DON </i> </h1>
     <p><strong>💻 Fullstack Developer</strong> &nbsp;|&nbsp; <strong>💻 Devops Engineer<🧠 AI Solutions Architect</strong> &nbsp;|&nbsp; <strong>🔐 Cybersecurity Analyst</strong> &nbsp;|&nbsp; <strong>📊 Data Engineer</strong></p>
     <p><em>“Building, breaking, and rebuilding intelligent systems in the cloud ☁️ with a touch of madness and mastery.”</em></p>
   </p>
