@@ -3,9 +3,11 @@
             background-size: cover; 
             height: 100vh; 
             position: relative;">
+
+ <img src="assets/coding-illustration.png" alt="Coding Illustration" width="400"/>
   <!-- Fading Overlay -->
   <div style="background-color: rgba(0, 0, 0, 0.5); height: 100%; width: 100%; position: absolute; top: 0; left: 0;"></div>
-  <img src="assets/coding-illustration.png" alt="Coding Illustration" width="400"/>
+ 
   <!-- Content Over Background -->
   <p align="center" style="position: relative; color: white; padding-top: 200px;">
     <img src="https://github.com/Alphadavethedon.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #4CAF50;" />
