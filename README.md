@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">DAVIS WABWILE <i> DON DAVE </i></h1>
+<h1 align="center">DAVIS WABWILE </i></h1>
 <p align="center"><strong>💻 Fullstack Developer</strong> &nbsp;|&nbsp; <strong>DevOps Engineer</strong> &nbsp;|&nbsp; <strong>🧠 AI Solutions Architect</strong> &nbsp;|&nbsp; <strong>🔐 Cybersecurity Analyst</strong> &nbsp;|&nbsp; <strong>📊 Data Engineer</strong></p>
 <p align="center"><em>“Building, breaking, and rebuilding intelligent systems in the cloud ☁️ with a touch of madness and mastery.”</em></p>
 
