@@ -1,6 +1,6 @@
-<!-- Modern Coding Workspace Illustration -->
+<!-- From unDraw with direct SVG link -->
 <p align="center">
-  <img src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg" width="320" alt="Modern Coding Workspace"/>
+  <img src="https://unpkg.com/@undraw/illustrations@1.0.0/svg/undraw_programming.svg" width="320" alt="Modern Coding Workspace"/>
 </p>
 
 <h1 align="center">DAVIS WABWILE — <i>DON</i></h1>
