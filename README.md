@@ -1,13 +1,11 @@
+<!-- Modern Coding Workspace Illustration -->
 <p align="center">
   <img src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg" width="320" alt="Modern Coding Workspace"/>
 </p>
 
-   
-   <h1>👨🏾‍💻 DAVIS WABWILE — <i>DON </i> </h1>
-    <p><strong>💻 Fullstack Developer</strong> &nbsp;|&nbsp; <strong>💻 Devops Engineer<🧠 AI Solutions Architect</strong> &nbsp;|&nbsp; <strong>🔐 Cybersecurity Analyst</strong> &nbsp;|&nbsp; <strong>📊 Data Engineer</strong></p>
-    <p><em>“Building, breaking, and rebuilding intelligent systems in the cloud ☁️ with a touch of madness and mastery.”</em></p>
-  </p>
-</div>
+<h1 align="center">DAVIS WABWILE — <i>DON</i></h1>
+<p align="center"><strong>💻 Fullstack Developer</strong> &nbsp;|&nbsp; <strong>DevOps Engineer</strong> &nbsp;|&nbsp; <strong>🧠 AI Solutions Architect</strong> &nbsp;|&nbsp; <strong>🔐 Cybersecurity Analyst</strong> &nbsp;|&nbsp; <strong>📊 Data Engineer</strong></p>
+<p align="center"><em>“Building, breaking, and rebuilding intelligent systems in the cloud ☁️ with a touch of madness and mastery.”</em></p>
 
 
 
