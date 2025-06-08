@@ -1,14 +1,6 @@
-<!-- Background with Fading Effect -->
-<div style="background: url('https://images.unsplash.com/photo-1532635095-2f8b3e2d8b8d') no-repeat center center fixed; 
-            background-size: cover; 
-            height: 100vh; 
-            position: relative;">
-  <!-- Fading Overlay -->
-  <div style="background-color: rgba(0, 0, 0, 0.5); height: 100%; width: 100%; position: absolute; top: 0; left: 0;"></div>
- 
-  <!-- Content Over Background -->
+ <!-- Content Over Background -->
   <p align="center" style="position: relative; color: white; padding-top: 200px;">
-    <img src="https://github.com/Alphadavethedon.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #4CAF50;" />
+    <img src="https://raw.githubusercontent.com/Alphadavethedon/Alphadavethedon/main/assets/coding-expert-illustration.svg" width="180" alt="Expert Coding Illustration"/>
     <h1>👨🏾‍💻 DAVIS WABWILE — <i>DON </i> </h1>
     <p><strong>💻 Fullstack Developer</strong> &nbsp;|&nbsp; <strong>💻 Devops Engineer<🧠 AI Solutions Architect</strong> &nbsp;|&nbsp; <strong>🔐 Cybersecurity Analyst</strong> &nbsp;|&nbsp; <strong>📊 Data Engineer</strong></p>
     <p><em>“Building, breaking, and rebuilding intelligent systems in the cloud ☁️ with a touch of madness and mastery.”</em></p>
@@ -135,28 +127,20 @@ mindmap
 </div>
 
 ---
-### [Mobile Money Fraud Detection Real-Time Data Pipeline](https://github.com/Alphadavethedon/Mobile-Money-Fraud-Detection-Real-Time-Data-Pipeline)
-An end-to-end real-time fraud detection pipeline simulating M-Pesa-like transactions using Kafka, Spark, Airflow, MLflow, and Streamlit.
+## Featured Projects
 
-### [E-commerce Database Design](https://github.com/Alphadavethedon/E-commerce-database-design)
-A scalable and normalized relational database schema for an e-commerce platform, complete with ERDs and SQL scripts for deployment.
-
-### [Road Traffic Accidents EDA Case Study](https://github.com/Alphadavethedon/Road-Traffic-Accidents-EDA/blob/main/Exploratory_Data_Analysis_(EDA)_Case_Study_Road_Traffic_Accidents.ipynb)
-A comprehensive exploratory data analysis of road traffic accidents using Pandas, Seaborn, and Matplotlib to uncover trends and correlations.
-
-### [Distributed Task Orchestrator](https://github.com/Alphadavethedon/task-orchestrator)
-Scalable task queue built with Redis, Go, and Kubernetes to enable distributed, fault-tolerant workflow orchestration.
-
-### [Cloud Cost Optimizer](https://github.com/Alphadavethedon/cloud-optimizer)
-AI-powered toolkit that applies ML and real-time analytics to reduce multi-cloud infrastructure costs.
-
-### [Zero Trust Proxy](https://github.com/Alphadavethedon/zero-trust-proxy)
-A security proxy inspired by Google's BeyondCorp, integrated with Keycloak and Istio to enforce Zero Trust principles.
-
-### [AI-Driven Log Analyzer](https://github.com/Alphadavethedon/log-analyzer)
-Log analysis tool that uses NLP (Hugging Face transformers) and Elasticsearch to extract insights from large-scale logs.
-
-
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Cash Craft Loans Backend](https://github.com/Alphadavethedon/Cash-Craft-Loans-Backend) | Node.js/Express backend powering a digital lending platform with M-Pesa integration, JWT authentication, and advanced KYC. | Node.js, Express, MongoDB, M-Pesa, JWT |
+| [Cash Craft Frontend](https://github.com/Alphadavethedon/Cash-Craft-Frontend-Main) | React SPA for loan origination, user onboarding, and dashboard analytics. | React, Axios, React Router |
+| [Niaje Market Frontend](https://github.com/Alphadavethedon/Niaje-Market-Frontend-) | Modern e-commerce frontend with product search, cart, and checkout flows. | React, Redux, Styled Components |
+| [Mobile Money Fraud Detection Real-Time Data Pipeline](https://github.com/Alphadavethedon/Mobile-Money-Fraud-Detection-Real-Time-Data-Pipeline) | Real-time fraud detection pipeline simulating M-Pesa transactions using Kafka, Spark, Airflow, MLflow, and Streamlit. | Kafka, Spark, MLflow, Python, Streamlit |
+| [Distributed Task Orchestrator](https://github.com/Alphadavethedon/task-orchestrator) | Scalable task queue with Redis, Go, and Kubernetes for distributed workflows. | Go, Redis, Kubernetes |
+| [Zero Trust Proxy](https://github.com/Alphadavethedon/zero-trust-proxy) | Security proxy with Keycloak and Istio, enforcing Zero Trust. | Keycloak, Istio, Go |
+| [AI-Driven Log Analyzer](https://github.com/Alphadavethedon/log-analyzer) | Log analysis using NLP and Elasticsearch for actionable insights. | Python, HuggingFace, Elasticsearch |
+| [E-commerce Database Design](https://github.com/Alphadavethedon/E-commerce-database-design) | Normalized, scalable database schema for e-commerce. | SQL, ERD |
+| [Road Traffic Accidents EDA](https://github.com/Alphadavethedon/Road-Traffic-Accidents-EDA) | Data analysis and visualization of traffic accidents. | Python, Pandas, Seaborn |
+| [Kenya Clinical Reasoning Challenge](https://github.com/Alphadavethedon/kenya-clinical-reasoning-challenge) | Medical reasoning competition platform for Kenyan clinicians. | Python, Flask, Data Science |
 ---
 
 ## 📝 Latest Blog Posts
@@ -171,10 +155,10 @@ Log analysis tool that uses NLP (Hugging Face transformers) and Elasticsearch to
 
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/daviswabwile">
+  <a href="https://www.linkedin.com/in/davis-wabwile-53238221a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/Alphadavethedon">
+  <a href="https://x.com/AlphaDonDave254">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="mailto:davewabwile@gmail.com">
