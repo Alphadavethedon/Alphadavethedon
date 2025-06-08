@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/coding-illustration.svg" width="320" alt="Modern Coding Workspace"/>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <h1 align="center">DAVIS WABWILE — <i>DON</i></h1>
 <p align="center"><strong>💻 Fullstack Developer</strong> &nbsp;|&nbsp; <strong>DevOps Engineer</strong> &nbsp;|&nbsp; <strong>🧠 AI Solutions Architect</strong> &nbsp;|&nbsp; <strong>🔐 Cybersecurity Analyst</strong> &nbsp;|&nbsp; <strong>📊 Data Engineer</strong></p>
