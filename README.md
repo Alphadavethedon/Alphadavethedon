@@ -3,8 +3,6 @@
             background-size: cover; 
             height: 100vh; 
             position: relative;">
-
- <img src="assets/coding-illustration.png" alt="Coding Illustration" width="400"/>
   <!-- Fading Overlay -->
   <div style="background-color: rgba(0, 0, 0, 0.5); height: 100%; width: 100%; position: absolute; top: 0; left: 0;"></div>
  
