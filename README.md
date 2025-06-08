@@ -18,20 +18,6 @@
 [![Repos](https://badges.pufler.dev/repos/Alphadavethedon?color=blue&style=flat)](https://github.com/Alphadavethedon?tab=repositories)
 [![Years](https://badges.pufler.dev/years/Alphadavethedon?color=blue&style=flat)](https://github.com/Alphadavethedon)
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/davis-wabwile-53238221a">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@ALPHARDITSOLUTIONS">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://x.com/AlphaDonDave254">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
----
-
 ##  Next-Gen Tech Profile
 **Polyglot engineer** specializing in **cloud-native architectures**, **AI/ML systems**, and **secure distributed applications**. Passionate about building **scalable, resilient systems** with **observability-first** approaches and **GitOps workflows**.
 
@@ -175,6 +161,10 @@ mindmap
   </a>
   <a href="https://alphadavethedon.github.io/Davis-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white"/>
+  </a>
+    </a>
+  <a href="https://www.youtube.com/@ALPHARDITSOLUTIONS">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </p>
 
