@@ -167,10 +167,5 @@ mindmap
   </a>
 </p>
 
----
+ From [Alphadavethedon](https://github.com/Alphadavethedon)
 
-## 🌟 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/Alphadavethedon/count.svg)
-
-⭐ From [Alphadavethedon](https://github.com/Alphadavethedon)
-```
