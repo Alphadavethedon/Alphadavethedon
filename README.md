@@ -15,8 +15,7 @@
 
 
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
-[![Repos](https://badges.pufler.dev/repos/Alphadavethedon?color=blue&style=flat)](https://github.com/Alphadavethedon?tab=repositories)
-[![Years](https://badges.pufler.dev/years/Alphadavethedon?color=blue&style=flat)](https://github.com/Alphadavethedon)
+
 
 ##  Next-Gen Tech Profile
 **Polyglot engineer** specializing in **cloud-native architectures**, **AI/ML systems**, and **secure distributed applications**. Passionate about building **scalable, resilient systems** with **observability-first** approaches and **GitOps workflows**.
