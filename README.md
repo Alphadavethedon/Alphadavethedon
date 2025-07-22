@@ -12,6 +12,7 @@
 <hr style="border: 0.5px solid #4CAF50; width: 60%;" />
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alphadavethedon&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
