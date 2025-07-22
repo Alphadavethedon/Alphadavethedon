@@ -12,9 +12,6 @@
 <hr style="border: 0.5px solid #4CAF50; width: 60%;" />
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alphadavethedon&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
 
 
@@ -113,7 +110,7 @@ mindmap
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alphadavethedon&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alphadavethedon&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedon&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
