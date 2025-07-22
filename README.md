@@ -116,6 +116,10 @@ mindmap
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alphadavethedon&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedon&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedon&layout=compact&theme=radical&hide_border=true" />
+</p>
+
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphadavethedon&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
