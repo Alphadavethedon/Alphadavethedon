@@ -13,6 +13,9 @@
 
 
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alphadavethedon&theme=monokai" />
+</p>
 
 
 ##  Next-Gen Tech Profile
