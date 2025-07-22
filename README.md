@@ -13,10 +13,6 @@
 
 
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alphadavethedon&theme=monokai" />
-</p>
-
 
 ##  Next-Gen Tech Profile
 **Polyglot engineer** specializing in **cloud-native architectures**, **AI/ML systems**, and **secure distributed applications**. Passionate about building **scalable, resilient systems** with **observability-first** approaches and **GitOps workflows**.
@@ -112,7 +108,11 @@ mindmap
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alphadavethedon&theme=monokai" />
+</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alphadavethedon&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedon&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
