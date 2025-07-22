@@ -117,8 +117,6 @@ mindmap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedon&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/your-wakatime-user-id.svg)](https://wakatime.com/@your-username)
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alphadavethedon&theme=react-dark&hide_border=true&area=true" />
 </p>
