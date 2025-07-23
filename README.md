@@ -10,6 +10,16 @@
 
 <!-- Divider -->
 <hr style="border: 0.5px solid #4CAF50; width: 60%;" />
+<h2 align="center">🔥 GitHub Stats & Streak</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davewabwile&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davewabwile&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davewabwile&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
