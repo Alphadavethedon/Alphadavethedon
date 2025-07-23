@@ -107,17 +107,10 @@ mindmap
 ## 📊 GitHub Analytics
 
 <h2 align="center">🔥 GitHub Stats & Streak</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alphadavethedon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedone&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alphadavethedon&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedon&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
