@@ -106,20 +106,15 @@ mindmap
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-  <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alphadavethedon&theme=monokai" />
-</p>
 <h2 align="center">🔥 GitHub Stats & Streak</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davewabwile&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alphadavethedon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davewabwile&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davewabwile&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedone&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 
