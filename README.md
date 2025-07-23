@@ -106,13 +106,8 @@ mindmap
 
 ## 📊 GitHub Analytics
 
-<h2 align="center">🔥 GitHub Stats & Streak</h2>
+<h2 align="center"> GitHub Stats & Streak</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<h2 align="center">🔥 GitHub Activity</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Alphadavethedon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -122,10 +117,6 @@ mindmap
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alphadavethedon&theme=tokyonight&hide_border=true)](https://github.com/Alphadavethedon)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedon&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphadavethedon&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
