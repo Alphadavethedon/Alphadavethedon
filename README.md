@@ -160,7 +160,7 @@ mindmap
   <a href="mailto:davewabwile@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://alphadavethedon.github.io/Davis-portfolio/">
+  <a href="https://davisportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white"/>
   </a>
     </a>
