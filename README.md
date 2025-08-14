@@ -5,19 +5,7 @@
 
 <p align="center">
   <b style="color:var(--color-accent-fg);">Cloud & DevOps Engineer • Fullstack Developer • IT & Cybersecurity Specialist</b>
-</p>
-
-<h3>🛡️ WorkGuard360</h3>
-<p><i>MERN-based workplace compliance & biometric log monitoring system.</i></p>
-<p>
-  <a href="https://workguard360.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-  </a>
-  <a href="https://github.com/Alphadavethedon/Workguard360">
-    <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
-  </a>
-</p>
-
+  
 ---
 
 ##  About Me
