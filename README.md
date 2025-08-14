@@ -31,20 +31,59 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 
 ---
 
-##  Tech Stack
+## 🚀 Tech Stack
 
-| Category | Tools & Technologies |
-|----------|----------------------|
-| **Languages** | JavaScript (ES6+), TypeScript, Python, Bash, SQL |
-| **Frontend** | React.js, Vite, Tailwind CSS, Framer Motion, Next.js, Redux Toolkit |
-| **Backend** | Node.js, Express.js, Socket.IO, REST APIs, GraphQL |
-| **Databases** | MongoDB, PostgreSQL, MariaDB, MySQL, Redis |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, GitHub Actions, CI/CD Pipelines, Render, Vercel |
-| **Data & AI** | Pandas, TensorFlow, Scikit-learn, NumPy, Data Engineering Pipelines |
-| **Security** | JWT, OAuth2.0, RBAC, Data Encryption, Zero Trust Architectures |
-| **Networking & Telephony** | SIP, VoIP, Asterisk PBX, FreePBX, Twilio APIs |
-| **Monitoring & Logging** | Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Winston Logger |
-| **Version Control & Collaboration** | Git, GitHub, GitLab, Agile/Scrum |
+<table>
+  <thead>
+    <tr style="background-color:#000000; color:#ffffff;">
+      <th>Category</th>
+      <th>Tools & Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#2e2e2e; color:#ffffff;">
+      <td><b>Languages</b></td>
+      <td>JavaScript (ES6+), TypeScript, Python, Bash, SQL</td>
+    </tr>
+    <tr style="background-color:#4f4f4f; color:#ffffff;">
+      <td><b>Frontend</b></td>
+      <td>React.js, Vite, Tailwind CSS, Framer Motion, Next.js, Redux Toolkit</td>
+    </tr>
+    <tr style="background-color:#2e2e2e; color:#ffffff;">
+      <td><b>Backend</b></td>
+      <td>Node.js, Express.js, Socket.IO, REST APIs, GraphQL</td>
+    </tr>
+    <tr style="background-color:#4f4f4f; color:#ffffff;">
+      <td><b>Databases</b></td>
+      <td>MongoDB, PostgreSQL, MariaDB, MySQL, Redis</td>
+    </tr>
+    <tr style="background-color:#2e2e2e; color:#ffffff;">
+      <td><b>Cloud & DevOps</b></td>
+      <td>AWS (EC2, S3, Lambda), Docker, GitHub Actions, CI/CD Pipelines, Render, Vercel</td>
+    </tr>
+    <tr style="background-color:#4f4f4f; color:#ffffff;">
+      <td><b>Data & AI</b></td>
+      <td>Pandas, TensorFlow, Scikit-learn, NumPy, Data Engineering Pipelines</td>
+    </tr>
+    <tr style="background-color:#2e2e2e; color:#ffffff;">
+      <td><b>Security</b></td>
+      <td>JWT, OAuth2.0, RBAC, Data Encryption, Zero Trust Architectures</td>
+    </tr>
+    <tr style="background-color:#4f4f4f; color:#ffffff;">
+      <td><b>Networking & Telephony</b></td>
+      <td>SIP, VoIP, Asterisk PBX, FreePBX, Twilio APIs</td>
+    </tr>
+    <tr style="background-color:#2e2e2e; color:#ffffff;">
+      <td><b>Monitoring & Logging</b></td>
+      <td>Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Winston Logger</td>
+    </tr>
+    <tr style="background-color:#4f4f4f; color:#ffffff;">
+      <td><b>Version Control & Collaboration</b></td>
+      <td>Git, GitHub, GitLab, Agile/Scrum</td>
+    </tr>
+  </tbody>
+</table>
+
 ---
 ## Featured Projects
 | Project | Description | Tech Stack |
