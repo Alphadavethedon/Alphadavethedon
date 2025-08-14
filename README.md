@@ -17,11 +17,16 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Animated Developer Banner"/>
   
- Successfully deployed **10+ enterprise-grade projects** at scale.
- Specialist in **Zero Trust Architectures** and **GitOps Workflows**.
- Active contributor to **open-source AI** and **cloud-native initiatives**.
- Strong advocate for **automation-first development pipelines** to drive efficiency and innovation.
+<div align="center">
 
+<ul style="list-style-position: inside; text-align: center;">
+  <li>Successfully deployed <b>10+ enterprise-grade projects</b> at scale.</li>
+  <li>Specialist in <b>Zero Trust Architectures</b> and <b>GitOps Workflows</b>.</li>
+  <li>Active contributor to <b>open-source AI</b> and <b>cloud-native initiatives</b>.</li>
+  <li>Strong advocate for <b>automation-first development pipelines</b> to drive efficiency and innovation.</li>
+</ul>
+
+</div>
 
 ---
 
