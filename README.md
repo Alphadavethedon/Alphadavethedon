@@ -62,7 +62,7 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/CASH-CRAFT-FRONTEND)
 
 ###  Kenya Clinical Reasoning Challenge
-> Interactive platform for healthcare professionals to practice clinical reasoning.  
+> Healthcare AI clinical reasoning.  
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/kenya-clinical-reasoning-challenge)  
 [![Colab](https://img.shields.io/badge/Open_in-Colab-F9AB00?logo=google-colab)](https://colab.research.google.com/drive/1w4WfgLFlHjdQCGI5he4jTTUKGwG-Dh_e) [![Zindi](https://img.shields.io/badge/Zindi-Certificate-8A2BE2)](https://zindi.africa/users/DonDave/competitions/certificate)
 
