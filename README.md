@@ -16,15 +16,15 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Animated Developer Banner"/>
   
-<div align="center" style="font-family: 'Segoe UI', sans-serif; line-height: 1.3;">
+<div align="center" style="font-family: 'Segoe UI', sans-serif; line-height: 1.1;">
 
-<p><strong style="color:#4CAF50;">✔ 10+ enterprise-grade projects</strong> <span style="color:#888;">successfully deployed at scale</span></p>
-<hr style="width:50%; border: 0; border-top: 1px solid #333; margin:4px 0;">
-<p><strong style="color:#2196F3;">✔ Zero Trust Architectures</strong> <span style="color:#888;">& GitOps Workflows expertise</span></p>
-<hr style="width:50%; border: 0; border-top: 1px solid #333; margin:4px 0;">
-<p><strong style="color:#FF9800;">✔ Open-source AI</strong> <span style="color:#888;">& cloud-native contributions</span></p>
-<hr style="width:50%; border: 0; border-top: 1px solid #333; margin:4px 0;">
-<p><strong style="color:#9C27B0;">✔ Automation-first pipelines</strong> <span style="color:#888;">driving efficiency & innovation</span></p>
+<p><strong style="color:#4CAF50;">✔ 10+ Enterprise-Grade Projects</strong> <span style="color:#aaa;">successfully deployed at scale</span></p>
+<hr style="width:45%; border: 0; border-top: 1px solid #444; margin:2px 0;">
+<p><strong style="color:#2196F3;">✔ Zero Trust Architectures</strong> <span style="color:#aaa;">& GitOps workflows mastery</span></p>
+<hr style="width:45%; border: 0; border-top: 1px solid #444; margin:2px 0;">
+<p><strong style="color:#FF9800;">✔ Open-Source AI</strong> <span style="color:#aaa;">& cloud-native contributions</span></p>
+<hr style="width:45%; border: 0; border-top: 1px solid #444; margin:2px 0;">
+<p><strong style="color:#9C27B0;">✔ Automation-First Pipelines</strong> <span style="color:#aaa;">driving efficiency & innovation</span></p>
 
 </div>
 
