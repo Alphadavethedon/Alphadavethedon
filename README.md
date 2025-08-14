@@ -56,7 +56,7 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://niajemarket.netlify.app)  
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/Niaje-Market-Frontend-)
 
-###  CashCraft – Personal Finance Tracking
+###  CashCraft – Loan and Personal Finance Tracking app.
 > Budgeting app with analytics, expense tracking, and visual reports.  
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://cashcraftapp.netlify.app)  
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/CASH-CRAFT-FRONTEND)
