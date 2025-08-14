@@ -101,7 +101,7 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 
 ---
 
-### 🛍️ Niaje Market – Local Marketplace Web App
+###  Niaje Market – Local Marketplace Web App
 > E-commerce platform enabling users to buy, sell, and list products/services within Nairobi communities.
 <p>
   <a href="https://niajemarket.netlify.app" target="_blank">
@@ -114,7 +114,7 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 
 ---
 
-### 💰 CashCraft – Personal Finance & Expense Tracking
+###  CashCraft – Personal Finance & Expense Tracking
 > Intuitive financial tracking app with budgeting tools, income/expense analytics, and data visualization.
 <p>
   <a href="https://cashcraftapp.netlify.app" target="_blank">
@@ -127,7 +127,7 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 
 ---
 
-### 🏥 Kenya Clinical Reasoning Challenge
+###  Kenya Clinical Reasoning Challenge
 > Interactive web platform for healthcare professionals to practice and enhance clinical reasoning skills.
 <p>
   <a href="https://github.com/Alphadavethedon/kenya-clinical-reasoning-challenge" target="_blank">
@@ -135,8 +135,10 @@ I build **scalable, production-ready systems** with a focus on **security, autom
   </a>
 </p>
 
----
+[![Colab](https://img.shields.io/badge/Open_in-Colab-F9AB00?logo=google-colab)](https://colab.research.google.com/drive/1w4WfgLFlHjdQCGI5he4jTTUKGwG-Dh_e)  
+[![Zindi Certificate](https://img.shields.io/badge/Zindi-Certificate-8A2BE2)](https://zindi.africa/users/DonDave/competitions/certificate)  
 
+---
 ---
 
 ### **Cloud Automation Toolkit**
