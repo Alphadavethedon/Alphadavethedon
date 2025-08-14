@@ -14,12 +14,15 @@
 
 I'm a results-driven **IT Support Engineer** with expertise spanning **Cloud Infrastructure, DevOps, Fullstack Development, and AI Engineering**.  
 I build **scalable, production-ready systems** with a focus on **security, automation, and elegant UI/UX**.  
+<div align="">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Animated Developer Banner"/>
+  
 
 - **10+ enterprise projects** successfully deployed at scale  
 - Specialist in **Zero Trust architectures** & **GitOps workflows**  
 - Contributor to **open-source AI and cloud-native projects**  
 - Advocate for **automation-first development pipelines**
-- 
+
 ---
 
 ## 🛠 Tech Stack
