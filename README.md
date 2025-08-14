@@ -1,76 +1,88 @@
-<!-- Profile README for Davis Wabwile -->
-<h1 align="center" style="color:#00e6e6; font-family: 'Segoe UI', sans-serif; font-weight:700;">
-  Davis Wabwile
-</h1>
-<h3 align="center" style="color:#cccccc; font-family: 'Segoe UI', sans-serif; font-weight:400;">
-  Cloud & DevOps Engineer • Fullstack Developer • Systems Engineer
-</h3>
+<!-- 
+  Expert-Level GitHub README for Recruiters
+  Designed to look like a personal website with smooth transitions and dark mode support.
+-->
+
+<style>
+  /* Smooth transition on hover and theme change */
+  .fade {
+    transition: all 0.3s ease-in-out;
+  }
+  .section:hover {
+    transform: translateY(-2px);
+    background-color: var(--color-canvas-subtle);
+  }
+  h1, h2, h3 {
+    font-family: 'Segoe UI', sans-serif;
+    transition: color 0.3s ease-in-out;
+  }
+  a {
+    color: var(--color-accent-fg);
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+  }
+  a:hover {
+    color: var(--color-fg-default);
+  }
+</style>
+
+<div align="center">
+
+# **Davis Wabwile**
+**Cloud & DevOps Engineer | Fullstack Developer | AI & Data Specialist**
+
+[Portfolio](https://davisportfolio.vercel.app) • [LinkedIn](https://www.linkedin.com/in/davis-wabwile) • [Email](mailto:daviswabwile@gmail.com)
+
+</div>
 
 ---
 
-### 🌌 About Me
-<p style="color:#bbbbbb; font-family: 'Segoe UI', sans-serif; line-height:1.6;">
-I am a results-driven IT Engineer with expertise in **Cloud Infrastructure, DevOps, AI Engineering, and Fullstack Development**.  
-I design and deploy **scalable, secure, and high-performance** systems for enterprise-grade applications.
-</p>
+## 🚀 About Me
+I am a results-driven **Cloud & DevOps Engineer** with a strong foundation in **fullstack development, AI engineering, and systems optimization**. Passionate about building **scalable, high-performance applications** and solving **complex technical challenges**.
 
 ---
 
-### 🛠️ Tech Stack
-<table>
-<tr>
-<td>
+## 💼 Core Skills
+<div class="fade">
 
-#### Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+- **DevOps & Cloud:** AWS, Azure, Docker, Kubernetes, CI/CD, Terraform  
+- **Backend Development:** Node.js, Express, MongoDB, REST & GraphQL APIs  
+- **Frontend Development:** React, TypeScript, TailwindCSS, Vite  
+- **AI & Data:** Python, Machine Learning, NLP, Data Engineering  
+- **Security & Monitoring:** Access control, compliance tracking, log monitoring  
 
-#### Backend  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![ExpressJS](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
-
-</td>
-<td>
-
-#### Frontend  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-#### Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alphadavethedon&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+## 📂 Featured Projects
+<div class="section fade">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+### **WorkGuard360**  
+A smart compliance & biometric log monitoring system for enterprises.  
+[🔗 Live Demo](https://workguard360.vercel.app) • [📂 Repository](https://github.com/Alphadavethedon/Workguard360)
 
----
+</div>
 
-### 🚀 Featured Projects
-- **[WorkGuard360](https://workguard360.vercel.app/)** — Enterprise-grade compliance & security monitoring platform with biometric-ready architecture.
-- **[My Portfolio](https://dondaviswabwile.netlify.app/)** — Showcasing projects, certifications, and expertise.
+<div class="section fade">
 
----
+### **Portfolio Website**  
+A modern, responsive developer portfolio showcasing my projects & skills.  
+[🔗 Live Site](https://davisportfolio.vercel.app)
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davis-wabwile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://dondaviswabwile.netlify.app/)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviswabwile@gmail.com)
+</div>
 
 ---
 
-<p align="center" style="color:#888; font-size:0.9rem;">
-💡 *This README was designed to give a recruiter-friendly, dark-themed, and clean first impression.*
-</p>
+## 📞 Contact Me
+📧 **Email:** [daviswabwile@gmail.com](mailto:daviswabwile@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/davis-wabwile](https://www.linkedin.com/in/davis-wabwile)  
+🌍 **Portfolio:** [davisportfolio.vercel.app](https://davisportfolio.vercel.app)
+
+---
+
+<div align="center">
+  
+_💡 Always open to exciting challenges and collaborations in **Cloud, DevOps, AI, and Software Engineering**._
+
+</div>
