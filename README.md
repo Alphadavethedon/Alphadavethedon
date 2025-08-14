@@ -85,7 +85,7 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 </table>
 
 ---
-## 🚀 Featured Projects
+##  Featured Projects
 ---
 
 ### 🛡️ WorkGuard360 – Workplace Compliance & Security Monitoring
