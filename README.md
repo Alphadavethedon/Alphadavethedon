@@ -29,7 +29,8 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 
 </div>
 ---
-## 🚀 Tech Stack
+
+##  Tech Stack
 
 | Category | Tools & Technologies |
 |----------|----------------------|
