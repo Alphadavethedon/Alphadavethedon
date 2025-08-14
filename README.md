@@ -40,7 +40,7 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 | **Data & AI** | Pandas, TensorFlow, Scikit-learn, NumPy, Data Pipelines |
 | **Security** | JWT, OAuth2.0, RBAC, Data Encryption, Zero Trust |
 | **Networking** | SIP, VoIP, Asterisk PBX, FreePBX, Twilio APIs |
-| **Monitoring** | Prometheus, Grafana, ELK Stack, Winston Logger |
+| **Monitoring** | Prometheus, Grafana, Zabbix, Atera, ELK Stack, Winston Logger |
 | **Collaboration** | Git, GitHub, GitLab, Agile/Scrum |
 
 ---
