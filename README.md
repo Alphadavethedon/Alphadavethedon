@@ -14,6 +14,8 @@
 ---
 
 ## About Me
+[![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
+
 I am a **polyglot engineer** with experience across **fullstack development**, **DevOps & MLOps**, and **security engineering**.  
 I design solutions that bridge the gap between **software development, AI/ML, and enterprise-grade infrastructure**.
 
