@@ -10,13 +10,15 @@
 ---
 
 ## 🌐 About Me
+[![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
 I'm a results-driven **IT Support Engineer** with expertise spanning **Cloud Infrastructure, DevOps, Fullstack Development, and AI Engineering**.  
 I build **scalable, production-ready systems** with a focus on **security, automation, and elegant UI/UX**.  
 
-- 🌍 Based in **Nairobi, Kenya**  
-- 📄 [Portfolio](https://davisportfolio.vercel.app)  
-- 📧 Reach me: **daviswabwile@gmail.com**  
-
+- **10+ enterprise projects** successfully deployed at scale  
+- Specialist in **Zero Trust architectures** & **GitOps workflows**  
+- Contributor to **open-source AI and cloud-native projects**  
+- Advocate for **automation-first development pipelines**
+- 
 ---
 
 ## 🛠 Tech Stack
@@ -31,13 +33,14 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 
 ---
 
-## 🚀 Featured Projects
-
-### **WorkGuard360**
-A **smart workplace compliance & biometric log monitoring system** for enterprises.  
-**Tech:** MERN, Tailwind, Socket.IO, MongoDB  
-**Live:** [Frontend](https://workguard360.vercel.app) | [Backend](https://workguard360.onrender.com)  
-<img src="https://github.com/Alphadavethedon/Workguard360/blob/main/assets/dashboard-preview.png" width="800" alt="Dashboard Preview"/>
+## Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **WorkGuard360** | Enterprise workplace compliance & biometric log monitoring system | MERN, Tailwind, MongoDB, Socket.IO |
+| **Cash Craft Platform** | Digital lending platform with M-Pesa integration and secure KYC pipeline | Node.js, MongoDB, JWT, M-Pesa API |
+| **Fraud Detection Pipeline** | Real-time M-Pesa fraud detection system at scale | Kafka, Spark, MLflow, Streamlit |
+| **Zero Trust Proxy** | Secure API gateway with Zero Trust enforcement | Go, Istio, Keycloak |
+| **AI Log Analyzer** | NLP-powered operational log intelligence system | Python, HuggingFace, Elasticsearch |
 
 ---
 
@@ -54,7 +57,12 @@ A collection of **DevOps scripts & CI/CD templates** to accelerate deployments.
 </p>
 
 ---
+## Articles
+- [Modern Back-End Systems](https://medium.com/@davewabwile/mastering-modern-backend-systems-a-practical-guide-to-apis-architecture-and-scalability-02f6501f7792)  
+- [Zero Trust Architectures for Kubernetes](https://medium.com/@davewabwile)  
+- [MLOps at Scale with Kubeflow 2.0](https://medium.com/@davewabwile)  
 
+---
 ## 🤝 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/davis-wabwile/" target="_blank">
