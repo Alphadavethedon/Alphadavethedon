@@ -1,82 +1,100 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Animated Developer Banner"/>
-  
-  <h1 style="font-size: 2.5rem; font-weight: bold; color: var(--color-fg-default);">
-    Davis Wabwile
-  </h1>
-  
-  <p style="max-width: 650px; color: var(--color-fg-muted); font-size: 1.1rem;">
-    Fullstack & Cloud-Native Engineer with deep expertise in architecting, securing, and scaling distributed systems, AI-powered applications, and cloud-native platforms. 
-    Focused on delivering production-grade systems with high availability, observability, and resilience.
-  </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Email Template</title>
+<style>
+    :root {
+        --bg-light: #ffffff;
+        --bg-dark: #121212;
+        --text-light: #2d2d2d;
+        --text-dark: #f5f5f5;
+        --primary: #4f46e5;
+        --accent: #6366f1;
+        --transition-speed: 0.3s;
+        --font-primary: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
+    body {
+        font-family: var(--font-primary);
+        margin: 0;
+        padding: 0;
+        background: var(--bg-light);
+        color: var(--text-light);
+        line-height: 1.6;
+        transition: background var(--transition-speed) ease, color var(--transition-speed) ease;
+    }
+    .dark-mode {
+        background: var(--bg-dark);
+        color: var(--text-dark);
+    }
+    .container {
+        max-width: 700px;
+        margin: 0 auto;
+        padding: 2rem;
+        border-radius: 16px;
+        background: inherit;
+    }
+    h1 {
+        color: var(--primary);
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+        transition: color var(--transition-speed) ease;
+    }
+    p {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+    }
+    .toggle-btn {
+        padding: 0.5rem 1rem;
+        background: var(--primary);
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 0.9rem;
+        transition: background var(--transition-speed) ease, transform var(--transition-speed) ease;
+    }
+    .toggle-btn:hover {
+        background: var(--accent);
+        transform: translateY(-2px);
+    }
+    .signature {
+        margin-top: 2rem;
+        border-top: 1px solid rgba(0,0,0,0.1);
+        padding-top: 1rem;
+        font-size: 0.9rem;
+    }
+    /* Smooth Fade-In Animation */
+    @keyframes fadeIn {
+        0% { opacity: 0; transform: translateY(10px); }
+        100% { opacity: 1; transform: translateY(0); }
+    }
+    .container {
+        animation: fadeIn 0.8s ease-in-out;
+    }
+</style>
+</head>
+<body>
+<div class="container" id="emailContainer">
+    <h1>Ticket Review Update</h1>
+    <p>Hi,</p>
+    <p>Thanks for reaching out. I’ve received your ticket and I’m currently reviewing it. I have noticed that you have not indicated the DCST of the affected agent. Kindly note that the affected agent’s credentials are necessary for any further ticket escalations, if required.</p>
+    <p>If there’s anything else you’d like to share in the meantime, please feel free to reply to this email.</p>
+    
+    <div class="signature">
+        Best regards,<br>
+        <strong>Davis Wabwile</strong><br>
+        Desktop Support Engineer
+    </div>
+
+    <button class="toggle-btn" onclick="toggleDarkMode()">Toggle Dark Mode</button>
 </div>
 
----
-
-## About Me
-[![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
-
-I am a **polyglot engineer** with experience across **fullstack development**, **DevOps & MLOps**, and **security engineering**.  
-I design solutions that bridge the gap between **software development, AI/ML, and enterprise-grade infrastructure**.
-
-- **10+ enterprise projects** successfully deployed at scale  
-- Specialist in **Zero Trust architectures** & **GitOps workflows**  
-- Contributor to **open-source AI and cloud-native projects**  
-- Advocate for **automation-first development pipelines**
-
----
-
-## Core Expertise
-| Domain | Skills |
-|--------|--------|
-| **Cloud & DevOps** | Kubernetes, Istio, Knative, Terraform, AWS, GCP |
-| **Fullstack Development** | React, TypeScript, Node.js, Go, Rust, GraphQL |
-| **AI/ML & Data** | PyTorch, TensorFlow, Ray, LangChain, MLflow, Weaviate |
-| **Security Engineering** | Zero Trust, OPA, Falco, SPIFFE, Threat Modeling |
-| **Emerging Tech** | WebAssembly, Edge AI, Quantum Readiness |
-
----
-
-## Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **WorkGuard360** | Enterprise workplace compliance & biometric log monitoring system | MERN, Tailwind, MongoDB, Socket.IO |
-| **Cash Craft Platform** | Digital lending platform with M-Pesa integration and secure KYC pipeline | Node.js, MongoDB, JWT, M-Pesa API |
-| **Fraud Detection Pipeline** | Real-time M-Pesa fraud detection system at scale | Kafka, Spark, MLflow, Streamlit |
-| **Zero Trust Proxy** | Secure API gateway with Zero Trust enforcement | Go, Istio, Keycloak |
-| **AI Log Analyzer** | NLP-powered operational log intelligence system | Python, HuggingFace, Elasticsearch |
-
----
-
-## Certifications
-| Category | Certifications |
-|----------|----------------|
-| **Cloud** | AWS Professional, CKA, CKAD, CKS |
-| **Security** | CISSP, CCSP, CompTIA CASP+ |
-| **AI/ML** | AWS ML Specialty, TensorFlow Developer, Databricks ML |
-
----
-
-## GitHub Insights
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alphadavethedon&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedon&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-## Articles
-- [Modern Back-End Systems](https://medium.com/@davewabwile/mastering-modern-backend-systems-a-practical-guide-to-apis-architecture-and-scalability-02f6501f7792)  
-- [Zero Trust Architectures for Kubernetes](https://medium.com/@davewabwile)  
-- [MLOps at Scale with Kubeflow 2.0](https://medium.com/@davewabwile)  
-
----
-
-## Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/davis-wabwile-53238221a/" style="margin-right: 10px;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/AlphaDonDave254" style="margin-right: 10px;"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:davewabwile@gmail.com" style="margin-right: 10px;"><img src="https://img.shields.io/badge/Email-CA1F27?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://davisportfolio.vercel.app/" style="margin-right: 10px;"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white"></a>
-</p>
+<script>
+function toggleDarkMode() {
+    document.body.classList.toggle('dark-mode');
+}
+</script>
+</body>
+</html>
