@@ -15,7 +15,7 @@ I'm a results-driven **IT Support Engineer** with expertise spanning **Cloud Inf
 I build **scalable, production-ready systems** with a focus on **security, automation, and elegant UI/UX**.  
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Animated Developer Banner"/>
-  
+ --- 
 <div align="center" style="font-family: 'Segoe UI', sans-serif; line-height: 1.1;">
 
 <p><strong style="color:#4CAF50;">✔ 10+ Enterprise-Grade Projects</strong> <span style="color:#aaa;">successfully deployed at scale</span></p>
