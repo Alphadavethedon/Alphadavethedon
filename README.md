@@ -86,10 +86,6 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 
 ---
 ## 🚀 Featured Projects
-
-Here’s a selection of my top projects, showcasing my expertise in **Fullstack Development, Cloud, AI, and DevOps**.  
-Click the buttons to **view live demos** or explore the **source code**.
-
 ---
 
 ### 🛡️ WorkGuard360 – Workplace Compliance & Security Monitoring
@@ -140,9 +136,6 @@ Click the buttons to **view live demos** or explore the **source code**.
 </p>
 
 ---
-
-## 🚀 Demo
-[![View Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-1?style=for-the-badge)](https://workguard360.vercel.app)
 
 ---
 
