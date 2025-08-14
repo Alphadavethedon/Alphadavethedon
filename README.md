@@ -140,23 +140,10 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 [![Zindi Certificate](https://img.shields.io/badge/Zindi-Certificate-8A2BE2)](https://zindi.africa/users/DonDave/competitions/certificate)  
 
 ---
----
-### ☁ **Cloud Automation Toolkit**
-**A high-performance toolkit of DevOps scripts & CI/CD templates** to supercharge cloud deployments with minimal manual effort.  
 
-🚀 **Key Capabilities:**
-- **AWS CLI + Terraform** for **infrastructure as code** (IaC) provisioning  
-- **Dockerized workflows** for consistent environment builds  
-- **GitHub Actions** for fully automated CI/CD pipelines  
-- **PowerShell scripts** for cross-platform automation  
-
-💡 **Best For:**  
-- Rapid environment setup  
-- Streamlined deployment pipelines  
-- Consistent, reproducible infrastructure  
-
-🔗 **[View on GitHub](#)** | **[Live Demo](#)**
-
+### **Cloud Automation Toolkit**
+A collection of **DevOps scripts & CI/CD templates** to accelerate deployments.  
+**Tech:** AWS CLI, Terraform, Docker, GitHub Actions, PowerShell  
 ---
 
 ##  GitHub Analytics
