@@ -28,21 +28,22 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 <p><strong style="color:#9C27B0;">✔ Automation-first pipelines</strong> <span style="color:#888;">driving efficiency & innovation</span></p>
 
 </div>
-
 ---
+## 🚀 Tech Stack
 
-##  Tech Stack
-| Category | Tools |
-|----------|-------|
-| **Languages** | JavaScript, TypeScript, Python, Bash |
-| **Frontend** | React, Vite, Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Express, MongoDB, Socket.IO |
-| **Cloud & DevOps** | AWS, Docker, GitHub Actions, Render, Vercel |
-| **Data** | PostgreSQL, MongoDB, Pandas |
-| **Security** | JWT, OAuth, RBAC, Encryption |
-
+| Category | Tools & Technologies |
+|----------|----------------------|
+| **Languages** | JavaScript (ES6+), TypeScript, Python, Bash, SQL |
+| **Frontend** | React.js, Vite, Tailwind CSS, Framer Motion, Next.js, Redux Toolkit |
+| **Backend** | Node.js, Express.js, Socket.IO, REST APIs, GraphQL |
+| **Databases** | MongoDB, PostgreSQL, MariaDB, MySQL, Redis |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, GitHub Actions, CI/CD Pipelines, Render, Vercel |
+| **Data & AI** | Pandas, TensorFlow, Scikit-learn, NumPy, Data Engineering Pipelines |
+| **Security** | JWT, OAuth2.0, RBAC, Data Encryption, Zero Trust Architectures |
+| **Networking & Telephony** | SIP, VoIP, Asterisk PBX, FreePBX, Twilio APIs |
+| **Monitoring & Logging** | Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Winston Logger |
+| **Version Control & Collaboration** | Git, GitHub, GitLab, Agile/Scrum |
 ---
-
 ## Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
