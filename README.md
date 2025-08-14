@@ -14,7 +14,7 @@
 
 I'm a results-driven **IT Support Engineer** with expertise spanning **Cloud Infrastructure, DevOps, Fullstack Development, and AI Engineering**.  
 I build **scalable, production-ready systems** with a focus on **security, automation, and elegant UI/UX**.  
-<div align="">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Animated Developer Banner"/>
   
 
