@@ -17,15 +17,15 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Animated Developer Banner"/>
   
-<div align="center" style="font-family: 'Segoe UI', sans-serif; line-height: 1.8;">
+<div align="center" style="font-family: 'Segoe UI', sans-serif; line-height: 1.3;">
 
-<p><strong>✓ Successfully deployed <span style="color:#4CAF50;">10+ enterprise-grade projects</span> at scale</strong></p>
-<hr style="width:60%; border: 0; border-top: 1px solid #555;">
-<p><strong>✓ Specialist in <span style="color:#4CAF50;">Zero Trust Architectures</span> & <span style="color:#4CAF50;">GitOps Workflows</span></strong></p>
-<hr style="width:60%; border: 0; border-top: 1px solid #555;">
-<p><strong>✓ Active contributor to <span style="color:#4CAF50;">open-source AI</span> & <span style="color:#4CAF50;">cloud-native initiatives</span></strong></p>
-<hr style="width:60%; border: 0; border-top: 1px solid #555;">
-<p><strong>✓ Advocate for <span style="color:#4CAF50;">automation-first development pipelines</span> to drive efficiency & innovation</strong></p>
+<p><strong style="color:#4CAF50;">✔ 10+ enterprise-grade projects</strong> <span style="color:#888;">successfully deployed at scale</span></p>
+<hr style="width:50%; border: 0; border-top: 1px solid #333; margin:4px 0;">
+<p><strong style="color:#2196F3;">✔ Zero Trust Architectures</strong> <span style="color:#888;">& GitOps Workflows expertise</span></p>
+<hr style="width:50%; border: 0; border-top: 1px solid #333; margin:4px 0;">
+<p><strong style="color:#FF9800;">✔ Open-source AI</strong> <span style="color:#888;">& cloud-native contributions</span></p>
+<hr style="width:50%; border: 0; border-top: 1px solid #333; margin:4px 0;">
+<p><strong style="color:#9C27B0;">✔ Automation-first pipelines</strong> <span style="color:#888;">driving efficiency & innovation</span></p>
 
 </div>
 
