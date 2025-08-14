@@ -31,7 +31,7 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <table>
   <thead>
