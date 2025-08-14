@@ -14,7 +14,7 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 I am a **polyglot engineer** with expertise in **cloud-native architectures**, **AI-driven solutions**, and **secure distributed applications**. I specialize in **production-grade systems** with a focus on **observability, scalability, and automation**.
 
 - **10+ enterprise-scale projects** delivered  
@@ -24,7 +24,7 @@ I am a **polyglot engineer** with expertise in **cloud-native architectures**, *
 
 ---
 
-## 🛠 Core Expertise
+##  Core Expertise
 <div align="center">
 
 | Domain | Skills |
@@ -39,7 +39,7 @@ I am a **polyglot engineer** with expertise in **cloud-native architectures**, *
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 | Project | Impact | Tech Stack |
 |---------|--------|------------|
 | **WorkGuard360** | Enterprise workplace compliance & biometric log monitoring | MERN, Tailwind, MongoDB, Socket.IO |
@@ -50,7 +50,7 @@ I am a **polyglot engineer** with expertise in **cloud-native architectures**, *
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 <div align="center">
 
 | Category | Certifications |
@@ -63,7 +63,7 @@ I am a **polyglot engineer** with expertise in **cloud-native architectures**, *
 
 ---
 
-## 📊 GitHub Insights
+## GitHub Insights
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Alphadavethedon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
@@ -72,7 +72,7 @@ I am a **polyglot engineer** with expertise in **cloud-native architectures**, *
 
 ---
 
-## ✍ Latest Articles
+## Latest Articles
 - [Modern Back-End Systems](https://medium.com/@davewabwile/mastering-modern-backend-systems-a-practical-guide-to-apis-architecture-and-scalability-02f6501f7792)  
 - [Zero Trust Architectures for Kubernetes](https://medium.com/@davewabwile)  
 - [MLOps at Scale with Kubeflow 2.0](https://medium.com/@davewabwile)  
