@@ -94,6 +94,9 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 | **Zero Trust Proxy** | Secure API gateway with Zero Trust enforcement | Go, Istio, Keycloak |
 | **AI Log Analyzer** | NLP-powered operational log intelligence system | Python, HuggingFace, Elasticsearch |
 
+## 🚀 Demo
+[![View Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-1?style=for-the-badge)](https://workguard360.vercel.app)
+
 ---
 
 ### **Cloud Automation Toolkit**
