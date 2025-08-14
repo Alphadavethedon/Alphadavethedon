@@ -28,6 +28,7 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 <p><strong style="color:#9C27B0;">✔ Automation-first pipelines</strong> <span style="color:#888;">driving efficiency & innovation</span></p>
 
 </div>
+
 ---
 
 ##  Tech Stack
