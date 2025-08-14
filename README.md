@@ -14,7 +14,7 @@ Results-driven **IT Support Engineer** skilled in **Cloud Infrastructure**, **De
 I deliver **secure, automated, and scalable systems** with a touch of **elegant UI/UX**.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="Animated Developer"/>
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/davis-coding.gif" width="110" alt="Davis Wabwile Coding"/>
 </div>
 
 <div align="center" style="line-height:1.1;">
