@@ -1,89 +1,80 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Developer Animation"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Animated Developer Banner"/>
   
-  <h1 style="font-size: 2.5em; font-weight: bold; background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
+  <h1 style="font-size: 2.5rem; font-weight: bold; color: var(--color-fg-default);">
     Davis Wabwile
   </h1>
   
-  <p style="font-size: 1.2em; color: #b0bec5;">
-    💻 Fullstack Engineer • ☁️ Cloud & DevOps Architect • 🧠 AI/ML Specialist • 🔐 Cybersecurity Professional • 📊 Data Engineer
+  <p style="max-width: 650px; color: var(--color-fg-muted); font-size: 1.1rem;">
+    Senior Fullstack & Cloud-Native Engineer with deep expertise in architecting, securing, and scaling distributed systems, AI-powered applications, and cloud-native platforms. 
+    Focused on delivering production-grade systems with high availability, observability, and resilience.
   </p>
-  
-  <p><em>“Designing, securing, and scaling intelligent systems — from prototype to planet-scale.”</em></p>
 </div>
 
 ---
 
-##  About Me
-I am a **polyglot engineer** with expertise in **cloud-native architectures**, **AI-driven solutions**, and **secure distributed applications**. I specialize in **production-grade systems** with a focus on **observability, scalability, and automation**.
+## About Me
+I am a **polyglot engineer** with experience across **fullstack development**, **DevOps & MLOps**, and **security engineering**.  
+I design solutions that bridge the gap between **software development, AI/ML, and enterprise-grade infrastructure**.
 
-- **10+ enterprise-scale projects** delivered  
-- Deep experience across **DevOps, MLOps, and full-stack delivery**  
-- Advocate for **Zero Trust security** & **GitOps workflows**  
-- Contributor to **open-source cloud-native and AI ecosystems**
+- **10+ enterprise projects** successfully deployed at scale  
+- Specialist in **Zero Trust architectures** & **GitOps workflows**  
+- Contributor to **open-source AI and cloud-native projects**  
+- Advocate for **automation-first development pipelines**
 
 ---
 
-##  Core Expertise
-<div align="center">
-
+## Core Expertise
 | Domain | Skills |
 |--------|--------|
-| **Cloud & DevOps** | Kubernetes, Istio, Crossplane, Knative, Terraform, AWS, GCP |
+| **Cloud & DevOps** | Kubernetes, Istio, Knative, Terraform, AWS, GCP |
 | **Fullstack Development** | React, TypeScript, Node.js, Go, Rust, GraphQL |
 | **AI/ML & Data** | PyTorch, TensorFlow, Ray, LangChain, MLflow, Weaviate |
 | **Security Engineering** | Zero Trust, OPA, Falco, SPIFFE, Threat Modeling |
 | **Emerging Tech** | WebAssembly, Edge AI, Quantum Readiness |
 
-</div>
+---
+
+## Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **WorkGuard360** | Enterprise workplace compliance & biometric log monitoring system | MERN, Tailwind, MongoDB, Socket.IO |
+| **Cash Craft Platform** | Digital lending platform with M-Pesa integration and secure KYC pipeline | Node.js, MongoDB, JWT, M-Pesa API |
+| **Fraud Detection Pipeline** | Real-time M-Pesa fraud detection system at scale | Kafka, Spark, MLflow, Streamlit |
+| **Zero Trust Proxy** | Secure API gateway with Zero Trust enforcement | Go, Istio, Keycloak |
+| **AI Log Analyzer** | NLP-powered operational log intelligence system | Python, HuggingFace, Elasticsearch |
 
 ---
 
-##  Featured Projects
-| Project | Impact | Tech Stack |
-|---------|--------|------------|
-| **WorkGuard360** | Enterprise workplace compliance & biometric log monitoring | MERN, Tailwind, MongoDB, Socket.IO |
-| **Cash Craft Platform** | Digital lending with M-Pesa integration and secure KYC | Node.js, MongoDB, JWT, M-Pesa API |
-| **Fraud Detection Pipeline** | Real-time fraud detection simulating M-Pesa at scale | Kafka, Spark, MLflow, Streamlit |
-| **Zero Trust Proxy** | Secure API gateway enforcing Zero Trust policies | Go, Istio, Keycloak |
-| **AI Log Analyzer** | NLP-powered operational log intelligence | Python, HuggingFace, Elasticsearch |
-
----
-
-##  Certifications
-<div align="center">
-
+## Certifications
 | Category | Certifications |
 |----------|----------------|
 | **Cloud** | AWS Professional, CKA, CKAD, CKS |
 | **Security** | CISSP, CCSP, CompTIA CASP+ |
 | **AI/ML** | AWS ML Specialty, TensorFlow Developer, Databricks ML |
 
-</div>
-
 ---
 
 ## GitHub Insights
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alphadavethedon&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Alphadavethedon&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alphadavethedon&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## Latest Articles
+## Articles
 - [Modern Back-End Systems](https://medium.com/@davewabwile/mastering-modern-backend-systems-a-practical-guide-to-apis-architecture-and-scalability-02f6501f7792)  
 - [Zero Trust Architectures for Kubernetes](https://medium.com/@davewabwile)  
 - [MLOps at Scale with Kubeflow 2.0](https://medium.com/@davewabwile)  
 
 ---
 
-## 🤝 Connect with Me
+## Contact
 <p align="center">
-  <a href="https://www.linkedin.com/in/davis-wabwile-53238221a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/AlphaDonDave254"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:davewabwile@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://davisportfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white"></a>
-  <a href="https://www.youtube.com/@ALPHARDITSOLUTIONS"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/davis-wabwile-53238221a/" style="margin-right: 10px;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/AlphaDonDave254" style="margin-right: 10px;"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:davewabwile@gmail.com" style="margin-right: 10px;"><img src="https://img.shields.io/badge/Email-CA1F27?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://davisportfolio.vercel.app/" style="margin-right: 10px;"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white"></a>
 </p>
