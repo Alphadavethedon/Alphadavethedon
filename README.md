@@ -1,100 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Email Template</title>
-<style>
-    :root {
-        --bg-light: #ffffff;
-        --bg-dark: #121212;
-        --text-light: #2d2d2d;
-        --text-dark: #f5f5f5;
-        --primary: #4f46e5;
-        --accent: #6366f1;
-        --transition-speed: 0.3s;
-        --font-primary: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    }
-    body {
-        font-family: var(--font-primary);
-        margin: 0;
-        padding: 0;
-        background: var(--bg-light);
-        color: var(--text-light);
-        line-height: 1.6;
-        transition: background var(--transition-speed) ease, color var(--transition-speed) ease;
-    }
-    .dark-mode {
-        background: var(--bg-dark);
-        color: var(--text-dark);
-    }
-    .container {
-        max-width: 700px;
-        margin: 0 auto;
-        padding: 2rem;
-        border-radius: 16px;
-        background: inherit;
-    }
-    h1 {
-        color: var(--primary);
-        margin-bottom: 1rem;
-        font-size: 1.5rem;
-        transition: color var(--transition-speed) ease;
-    }
-    p {
-        font-size: 1rem;
-        margin-bottom: 1rem;
-    }
-    .toggle-btn {
-        padding: 0.5rem 1rem;
-        background: var(--primary);
-        color: #fff;
-        border: none;
-        border-radius: 8px;
-        cursor: pointer;
-        font-size: 0.9rem;
-        transition: background var(--transition-speed) ease, transform var(--transition-speed) ease;
-    }
-    .toggle-btn:hover {
-        background: var(--accent);
-        transform: translateY(-2px);
-    }
-    .signature {
-        margin-top: 2rem;
-        border-top: 1px solid rgba(0,0,0,0.1);
-        padding-top: 1rem;
-        font-size: 0.9rem;
-    }
-    /* Smooth Fade-In Animation */
-    @keyframes fadeIn {
-        0% { opacity: 0; transform: translateY(10px); }
-        100% { opacity: 1; transform: translateY(0); }
-    }
-    .container {
-        animation: fadeIn 0.8s ease-in-out;
-    }
-</style>
-</head>
-<body>
-<div class="container" id="emailContainer">
-    <h1>Ticket Review Update</h1>
-    <p>Hi,</p>
-    <p>Thanks for reaching out. I’ve received your ticket and I’m currently reviewing it. I have noticed that you have not indicated the DCST of the affected agent. Kindly note that the affected agent’s credentials are necessary for any further ticket escalations, if required.</p>
-    <p>If there’s anything else you’d like to share in the meantime, please feel free to reply to this email.</p>
-    
-    <div class="signature">
-        Best regards,<br>
-        <strong>Davis Wabwile</strong><br>
-        Desktop Support Engineer
-    </div>
+<!-- Profile README for Davis Wabwile -->
+<h1 align="center" style="color:#00e6e6; font-family: 'Segoe UI', sans-serif; font-weight:700;">
+  Davis Wabwile
+</h1>
+<h3 align="center" style="color:#cccccc; font-family: 'Segoe UI', sans-serif; font-weight:400;">
+  Cloud & DevOps Engineer • Fullstack Developer • Systems Engineer
+</h3>
 
-    <button class="toggle-btn" onclick="toggleDarkMode()">Toggle Dark Mode</button>
-</div>
+---
 
-<script>
-function toggleDarkMode() {
-    document.body.classList.toggle('dark-mode');
-}
-</script>
-</body>
-</html>
+### 🌌 About Me
+<p style="color:#bbbbbb; font-family: 'Segoe UI', sans-serif; line-height:1.6;">
+I am a results-driven IT Engineer with expertise in **Cloud Infrastructure, DevOps, AI Engineering, and Fullstack Development**.  
+I design and deploy **scalable, secure, and high-performance** systems for enterprise-grade applications.
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<table>
+<tr>
+<td>
+
+#### Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+
+#### Backend  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![ExpressJS](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
+
+</td>
+<td>
+
+#### Frontend  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+#### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alphadavethedon&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- **[WorkGuard360](https://workguard360.vercel.app/)** — Enterprise-grade compliance & security monitoring platform with biometric-ready architecture.
+- **[My Portfolio](https://dondaviswabwile.netlify.app/)** — Showcasing projects, certifications, and expertise.
+
+---
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davis-wabwile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://dondaviswabwile.netlify.app/)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviswabwile@gmail.com)
+
+---
+
+<p align="center" style="color:#888; font-size:0.9rem;">
+💡 *This README was designed to give a recruiter-friendly, dark-themed, and clean first impression.*
+</p>
