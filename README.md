@@ -17,14 +17,15 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Animated Developer Banner"/>
   
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', sans-serif; line-height: 1.8;">
 
-<ul style="list-style-position: inside; text-align: center;">
-  <li>Successfully deployed <b>10+ enterprise-grade projects</b> at scale.</li>
-  <li>Specialist in <b>Zero Trust Architectures</b> and <b>GitOps Workflows</b>.</li>
-  <li>Active contributor to <b>open-source AI</b> and <b>cloud-native initiatives</b>.</li>
-  <li>Strong advocate for <b>automation-first development pipelines</b> to drive efficiency and innovation.</li>
-</ul>
+<p><strong>✓ Successfully deployed <span style="color:#4CAF50;">10+ enterprise-grade projects</span> at scale</strong></p>
+<hr style="width:60%; border: 0; border-top: 1px solid #555;">
+<p><strong>✓ Specialist in <span style="color:#4CAF50;">Zero Trust Architectures</span> & <span style="color:#4CAF50;">GitOps Workflows</span></strong></p>
+<hr style="width:60%; border: 0; border-top: 1px solid #555;">
+<p><strong>✓ Active contributor to <span style="color:#4CAF50;">open-source AI</span> & <span style="color:#4CAF50;">cloud-native initiatives</span></strong></p>
+<hr style="width:60%; border: 0; border-top: 1px solid #555;">
+<p><strong>✓ Advocate for <span style="color:#4CAF50;">automation-first development pipelines</span> to drive efficiency & innovation</strong></p>
 
 </div>
 
