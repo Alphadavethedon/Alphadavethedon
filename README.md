@@ -9,7 +9,7 @@
 
 ---
 
-## 🌐 About Me
+##  About Me
 [![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)
 
 I'm a results-driven **IT Support Engineer** with expertise spanning **Cloud Infrastructure, DevOps, Fullstack Development, and AI Engineering**.  
@@ -25,7 +25,7 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 | Category | Tools |
 |----------|-------|
 | **Languages** | JavaScript, TypeScript, Python, Bash |
@@ -54,7 +54,7 @@ A collection of **DevOps scripts & CI/CD templates** to accelerate deployments.
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alphadavethedon&show_icons=true&theme=transparent&hide_border=true" alt="stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=Alphadavethedon&theme=transparent&hide_border=true" alt="streak" height="165"/>
