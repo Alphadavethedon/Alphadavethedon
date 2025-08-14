@@ -18,10 +18,10 @@ I build **scalable, production-ready systems** with a focus on **security, autom
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Animated Developer Banner"/>
   
 
-- **10+ enterprise projects** successfully deployed at scale  
-- Specialist in **Zero Trust architectures** & **GitOps workflows**  
-- Contributor to **open-source AI and cloud-native projects**  
-- Advocate for **automation-first development pipelines**
+ **10+ enterprise projects** successfully deployed at scale  
+ Specialist in **Zero Trust architectures** & **GitOps workflows**  
+ Contributor to **open-source AI and cloud-native projects**  
+ Advocate for **automation-first development pipelines**
 
 ---
 
@@ -62,9 +62,9 @@ A collection of **DevOps scripts & CI/CD templates** to accelerate deployments.
 
 ---
 ## Articles
-- [Modern Back-End Systems](https://medium.com/@davewabwile/mastering-modern-backend-systems-a-practical-guide-to-apis-architecture-and-scalability-02f6501f7792)  
-- [Zero Trust Architectures for Kubernetes](https://medium.com/@davewabwile)  
-- [MLOps at Scale with Kubeflow 2.0](https://medium.com/@davewabwile)  
+  [Modern Back-End Systems](https://medium.com/@davewabwile/mastering-modern-backend-systems-a-practical-guide-to-apis-architecture-and-scalability-02f6501f7792)  
+  [Zero Trust Architectures for Kubernetes](https://medium.com/@davewabwile)  
+  [MLOps at Scale with Kubeflow 2.0](https://medium.com/@davewabwile)  
 
 ---
 ## 🤝 Let’s Connect
