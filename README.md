@@ -85,14 +85,61 @@ I build **scalable, production-ready systems** with a focus on **security, autom
 </table>
 
 ---
-## Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **WorkGuard360** | Enterprise workplace compliance & biometric log monitoring system | MERN, Tailwind, MongoDB, Socket.IO |
-| **Cash Craft Platform** | Digital lending platform with M-Pesa integration and secure KYC pipeline | Node.js, MongoDB, JWT, M-Pesa API |
-| **Fraud Detection Pipeline** | Real-time M-Pesa fraud detection system at scale | Kafka, Spark, MLflow, Streamlit |
-| **Zero Trust Proxy** | Secure API gateway with Zero Trust enforcement | Go, Istio, Keycloak |
-| **AI Log Analyzer** | NLP-powered operational log intelligence system | Python, HuggingFace, Elasticsearch |
+## 🚀 Featured Projects
+
+Here’s a selection of my top projects, showcasing my expertise in **Fullstack Development, Cloud, AI, and DevOps**.  
+Click the buttons to **view live demos** or explore the **source code**.
+
+---
+
+### 🛡️ WorkGuard360 – Workplace Compliance & Security Monitoring
+> MERN-based smart compliance & biometric log monitoring system with real-time access logs, violation detection, dashboards, and alerts.
+<p>
+  <a href="https://workguard360.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Alphadavethedon/Workguard360" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+  </a>
+</p>
+
+---
+
+### 🛍️ Niaje Market – Local Marketplace Web App
+> E-commerce platform enabling users to buy, sell, and list products/services within Nairobi communities.
+<p>
+  <a href="https://niajemarket.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Alphadavethedon/Niaje-Market-Frontend-" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+  </a>
+</p>
+
+---
+
+### 💰 CashCraft – Personal Finance & Expense Tracking
+> Intuitive financial tracking app with budgeting tools, income/expense analytics, and data visualization.
+<p>
+  <a href="https://cashcraftapp.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Click_Here-brightgreen?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/Alphadavethedon/CASH-CRAFT-FRONTEND" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+  </a>
+</p>
+
+---
+
+### 🏥 Kenya Clinical Reasoning Challenge
+> Interactive web platform for healthcare professionals to practice and enhance clinical reasoning skills.
+<p>
+  <a href="https://github.com/Alphadavethedon/kenya-clinical-reasoning-challenge" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo"/>
+  </a>
+</p>
+
+---
 
 ## 🚀 Demo
 [![View Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-1?style=for-the-badge)](https://workguard360.vercel.app)
