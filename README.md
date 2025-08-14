@@ -29,19 +29,21 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
+
 | **Category** | **Tools & Technologies** |
 |--------------|--------------------------|
-| **Languages** | JavaScript (ES6+), TypeScript, Python, Bash, SQL |
-| **Frontend** | React.js, Vite, Tailwind CSS, Framer Motion, Next.js, Redux Toolkit |
-| **Backend** | Node.js, Express.js, Socket.IO, REST APIs, GraphQL |
-| **Databases** | MongoDB, PostgreSQL, MariaDB, MySQL, Redis |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda), Docker, GitHub Actions, CI/CD, Render, Vercel |
-| **Data & AI** | Pandas, TensorFlow, Scikit-learn, NumPy, Data Pipelines |
-| **Security** | JWT, OAuth2.0, RBAC, Data Encryption, Zero Trust |
-| **Networking** | SIP, VoIP, Asterisk PBX, FreePBX, Twilio APIs |
-| **Monitoring** | Prometheus, Grafana, Zabbix, Atera, ELK Stack, Winston Logger |
-| **Collaboration** | Git, GitHub, GitLab, Agile/Scrum |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=fff) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff) ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=fff) ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff) ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=fff) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=fff) ![REST API](https://img.shields.io/badge/-REST-02569B?logo=swagger&logoColor=fff) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=ff9900) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff) ![CI/CD](https://img.shields.io/badge/-CI/CD-000?logo=gitlab&logoColor=fff) ![Render](https://img.shields.io/badge/-Render-000?logo=render&logoColor=fff) ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff) |
+| **Data & AI** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=fff) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff) |
+| **Security** | ![JWT](https://img.shields.io/badge/-JWT-000?logo=jsonwebtokens&logoColor=fff) ![OAuth 2.0](https://img.shields.io/badge/-OAuth2-3E8EDE?logo=openid&logoColor=fff) ![RBAC](https://img.shields.io/badge/-RBAC-4B5563?logoColor=fff) ![Encryption](https://img.shields.io/badge/-Encryption-4B5563?logo=letsencrypt&logoColor=fff) ![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-FF0000?logoColor=fff) |
+| **Networking** | ![SIP](https://img.shields.io/badge/-SIP-00A4EF?logoColor=fff) ![VoIP](https://img.shields.io/badge/-VoIP-1E90FF?logoColor=fff) ![Asterisk PBX](https://img.shields.io/badge/-Asterisk%20PBX-F68A1E?logo=asterisk&logoColor=fff) ![FreePBX](https://img.shields.io/badge/-FreePBX-009688?logoColor=fff) ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?logo=twilio&logoColor=fff) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=fff) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=fff) ![Zabbix](https://img.shields.io/badge/-Zabbix-CC0000?logo=zabbix&logoColor=fff) ![Atera](https://img.shields.io/badge/-Atera-00ADEF?logoColor=fff) ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-005571?logo=elasticstack&logoColor=fff) ![Winston](https://img.shields.io/badge/-Winston%20Logger-000?logo=nodedotjs&logoColor=fff) |
+| **Collaboration** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=fff) ![Agile](https://img.shields.io/badge/-Agile-009688?logo=scrumalliance&logoColor=fff) ![Scrum](https://img.shields.io/badge/-Scrum-7952B3?logoColor=fff) |
+
 
 ---
 
