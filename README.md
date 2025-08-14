@@ -6,7 +6,7 @@
   </h1>
   
   <p style="max-width: 650px; color: var(--color-fg-muted); font-size: 1.1rem;">
-    Senior Fullstack & Cloud-Native Engineer with deep expertise in architecting, securing, and scaling distributed systems, AI-powered applications, and cloud-native platforms. 
+    Fullstack & Cloud-Native Engineer with deep expertise in architecting, securing, and scaling distributed systems, AI-powered applications, and cloud-native platforms. 
     Focused on delivering production-grade systems with high availability, observability, and resilience.
   </p>
 </div>
