@@ -108,7 +108,7 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 </p>
 
 
-> 💡 *"Turning ideas into reality, one line of code at a time."* — **Davis Wabwile**
+>  *"Turning ideas into reality, one line of code at a time."*  **Davis Wabwile**
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=500&lines=Thanks+for+visiting+my+profile!" alt="Thanks message" />
