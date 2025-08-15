@@ -111,20 +111,35 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 >  *"Relentless and unstoppable in vision."*  — **Davis Wabwile**
 
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40">
-    <text x="100%" y="30" font-size="20" fill="blue">
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="80">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+      text {
+        font-family: 'Pacifico', cursive;
+        font-size: 36px;
+      }
+    </style>
+    <text x="100%" y="50" fill="blue">
       THANK YOU FOR VISITING MY PROFILE!
     </text>
     <animate attributeName="x" from="100%" to="-100%" dur="8s" repeatCount="indefinite" />
   </svg>
-  
-  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40">
-    <text x="100%" y="30" font-size="20" fill="red">
+
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="80">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+      text {
+        font-family: 'Pacifico', cursive;
+        font-size: 36px;
+      }
+    </style>
+    <text x="100%" y="50" fill="red">
       LET'S BUILD SOMETHING AMAZING WITH A TOUCH OF MYSTERY AND MADNESS!
     </text>
-    <animate attributeName="x" from="100%" to="-200%" dur="12s" repeatCount="indefinite" />
+    <animate attributeName="x" from="100%" to="-150%" dur="12s" repeatCount="indefinite" />
   </svg>
 </p>
+
 
 ---
 
