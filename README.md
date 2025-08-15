@@ -8,23 +8,27 @@
 ---
 
 ## About Me
-
 <p align="left">
   <a href="https://github.com/Alphadavethedon">
-    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Views&color=1e90ff&style=flat-square&labelColor=0d1117" alt=" Profile Views" height="24">
+    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Views&color=1e90ff&style=flat-square&labelColor=0d1117" alt="Profile Views" height="24">
   </a>
   <a href="https://buymeacoffee.com/davewabwile" target="_blank">
-    <img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000&labelColor=0d1117" alt=" Buy Me A Coffee" height="24">
+    <img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000&labelColor=0d1117" alt="Buy Me A Coffee" height="24">
   </a>
 </p>
 
-Results-driven **IT Support Engineer** skilled in **Cloud Infrastructure**, **DevOps**, **Fullstack Development**, **Data Engineering**, and **AI Engineering**.  
-I deliver **secure, automated, and scalable systems** with a touch of **elegant UI/UX**.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220" alt="Coding animation placeholder" />
+<div align="center" style="display: flex; align-items: center; gap: 2rem; margin: 1rem 0;">
+  <div style="flex: 1;">
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220" alt="Coding animation" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </div>
+  
+  <div style="flex: 2; text-align: left;">
+    <p style="font-size: 1.1rem; line-height: 1.6;">
+      Results-driven <strong>IT Support Engineer</strong> skilled in <strong>Cloud Infrastructure</strong>, <strong>DevOps</strong>, <strong>Fullstack Development</strong>, <strong>Data Engineering</strong>, and <strong>AI Engineering</strong>.<br><br>
+      I deliver <strong>secure, automated, and scalable systems</strong> with a touch of <strong>elegant UI/UX</strong>.
+    </p>
+  </div>
 </div>
-
 
 ---
 
