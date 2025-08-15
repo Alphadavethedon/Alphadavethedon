@@ -1,8 +1,6 @@
 <!-- Header Banner -->
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=𝓓𝓪𝓿𝓲𝓼%20𝓦𝓪𝓫𝔀𝓲𝓵𝓮&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Cloud%20%26%20DevOps%20Engineer%20•%20Fullstack%20Developer%20•%20IT%20%26%20Cybersecurity%20Specialist&descAlignY=60&descAlign=50" alt="Davis Wabwile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Davis%20Wabwile&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&fontAlign=50&desc=Cloud%20%26%20DevOps%20Engineer%20•%20Fullstack%20Developer%20•%20IT%20%26%20Cybersecurity%20Specialist&descSize=18&descAlignY=55" alt="Davis Wabwile Banner" />
 </p>
 
 
