@@ -9,21 +9,21 @@
 
 ## About Me
 
-<div style="position: relative; margin: 2rem 0; min-height: 180px;">
-  <!-- Floating GIF -->
-  <div style="position: absolute; left: 0; top: 0; z-index: 2;">
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="160" style="border-radius: 8px; border: 2px solid #1e90ff; transform: rotate(-5deg);">
-  </div>
-  
-  <!-- Text Content -->
-  <div style="position: relative; z-index: 1; background: rgba(13,17,23,0.8); margin-left: 100px; padding: 1.25rem 1.25rem 1.25rem 80px; border-radius: 0 12px 12px 12px; border-top: 3px solid #1e90ff;">
-    <p style="margin: 0; font-size: 1rem; line-height: 1.6;">
-      <strong style="color: #1e90ff;">Cloud/DevOps Engineer</strong> building secure, 
-      automated systems with elegant interfaces. 
-      Expertise in fullstack development and 
-      scalable architecture.
-    </p>
-  </div>
+
+<p align="left">
+  <a href="https://github.com/Alphadavethedon">
+    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Views&color=1e90ff&style=flat-square&labelColor=0d1117" alt=" Profile Views" height="24">
+  </a>
+  <a href="https://buymeacoffee.com/davewabwile" target="_blank">
+    <img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000&labelColor=0d1117" alt=" Buy Me A Coffee" height="24">
+  </a>
+</p>
+
+Results-driven **IT Support Engineer** skilled in **Cloud Infrastructure**, **DevOps**, **Fullstack Development**, **Data Engineering**, and **AI Engineering**.  
+I deliver **secure, automated, and scalable systems** with a touch of **elegant UI/UX**.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220" alt="Coding animation placeholder" />
 </div>
 
 ---
