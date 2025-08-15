@@ -108,8 +108,7 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 </p>
 
 
->  *"Relentless in code, unstoppable in vision."*
-> — **Davis Wabwile**
+>  *"Relentless in code, unstoppable in vision."*  — **Davis Wabwile**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Alphadavethedon/assets/main/thanks-scroll.svg" alt="Thanks for visiting my profile" />
