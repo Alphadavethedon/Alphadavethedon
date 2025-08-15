@@ -109,8 +109,6 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 
 ---
 
-![Quote](https://readme-quote-generator.vercel.app/api?quote=Turning%20ideas%20into%20reality,%20one%20line%20of%20code%20at%20a%20time.&author=Davis%20Wabwile&color1=purple&color2=red)
-
 <!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
