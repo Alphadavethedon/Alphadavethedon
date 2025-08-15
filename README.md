@@ -8,7 +8,16 @@
 ---
 
 ## About Me
-[![Visitors](https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Alphadavethedon)  
+<p align="center">
+  <a href="https://github.com/Alphadavethedon">
+    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/davewabwile" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
+  </a>
+</p>
+ 
 
 Results-driven **IT Support Engineer** skilled in **Cloud Infrastructure**, **DevOps**, **Fullstack Development**, **Data Engineering**, and **AI Engineering**.  
 I deliver **secure, automated, and scalable systems** with a touch of **elegant UI/UX**.
