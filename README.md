@@ -110,8 +110,52 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 
 >  *"Relentless and unstoppable in vision."*  — **Davis Wabwile**
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=800&color=1E90FF&background=0D1117&width=650&lines=Welcome+to+my+GitHub+Profile!;Crafting+Scalable+Systems+with+Precision+and+Passion;Let's+Architect+Innovative+Solutions+with+a+Dash+of+Code+Magic!" alt="Senior Software Engineer README Animation" />
+<p align="center">
+  <svg viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+      @keyframes fadeInOut {
+        0%, 45%, 55%, 100% { opacity: 0; }
+        50% { opacity: 1; }
+      }
+      @keyframes colorCycle {
+        0% { fill: #1E90FF; }
+        25% { fill: #FF1493; }
+        50% { fill: #7CFC00; }
+        75% { fill: #FFD700; }
+        100% { fill: #1E90FF; }
+      }
+      @keyframes slideIn {
+        from { transform: translateY(20px); opacity: 0; }
+        to { transform: translateY(0); opacity: 1; }
+      }
+      .text-line {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 24px;
+        text-anchor: middle;
+        animation: 
+          fadeInOut 8s infinite,
+          colorCycle 15s infinite,
+          slideIn 1.5s ease-out;
+      }
+      .text-line:nth-child(1) { animation-delay: 0s, 0s, 0s; }
+      .text-line:nth-child(2) { animation-delay: 2s, 3s, 0.3s; }
+      .text-line:nth-child(3) { animation-delay: 4s, 6s, 0.6s; }
+    </style>
+    
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#0D1117" />
+    
+    <!-- Text Elements -->
+    <text x="50%" y="40%" class="text-line">Thanks For Visiting My Profile</text>
+    <text x="50%" y="60%" class="text-line">Crafting Scalable Systems with Precision and Passion</text>
+    <text x="50%" y="80%" class="text-line">Let's Architect Innovative Solutions with a Dash of Code Magic!</text>
+    
+    <!-- Glow Effect -->
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </svg>
 </p>
 
 ---
