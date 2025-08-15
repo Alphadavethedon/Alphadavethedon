@@ -111,11 +111,8 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 >  *"Relentless in code, unstoppable in vision."*  — **Davis Wabwile**
 
 <marquee behavior="scroll" direction="left" scrollamount="10">
-  <b><font size="5" color="purple">
-    THANK YOU FOR VISITING MY PROFILE ..... LET'S BUILD SOMETHING AMAZING WITH A TOUCH OF MYSTERY AND MADNESS!
-  </font></b>
+  THANK YOU FOR VISITING MY PROFILE ..... LET'S BUILD SOMETHING AMAZING WITH A TOUCH OF MYSTERY AND MADNESS!
 </marquee>
-
 
 ---
 
