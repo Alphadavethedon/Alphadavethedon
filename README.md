@@ -1,8 +1,9 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/davis-wabwile-banner.png" alt="Davis Wabwile Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Davis%20Wabwile&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="header" />
 </p>
 
+<p align="center"><b>Cloud & DevOps Engineer • Fullstack Developer • IT & Cybersecurity Specialist</b></p>
 
 ---
 
