@@ -10,12 +10,11 @@
 ## About Me
 
 <p align="left">
-  <a href="https://github.com/Alphadavethedon" style="display: inline-flex; align-items: center; text-decoration: none; margin-right: 20px;">
-    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=PROFILE+VIEWS&color=1e90ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views" style="height: 30px; width: auto; filter: drop-shadow(0 0 5px rgba(30,144,255,0.4)); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://github.com/Alphadavethedon">
+    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Views&color=1e90ff&style=flat-square&labelColor=0d1117" alt="Profile Views" height="24">
   </a>
-  
-  <a href="https://buymeacoffee.com/davewabwile" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0d1117" alt="Buy Me A Coffee" style="height: 30px; width: auto; filter: drop-shadow(0 0 5px rgba(255,221,0,0.4)); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://buymeacoffee.com/davewabwile" target="_blank">
+    <img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000&labelColor=0d1117" alt="Buy Me A Coffee" height="24">
   </a>
 </p>
 
