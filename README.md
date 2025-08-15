@@ -14,8 +14,9 @@ Results-driven **IT Support Engineer** skilled in **Cloud Infrastructure**, **De
 I deliver **secure, automated, and scalable systems** with a touch of **elegant UI/UX**.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="Animated Developer"/>
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220" alt="Coding animation placeholder" />
 </div>
+
 
 <div align="center" style="line-height:1.1;">
   <p><strong style="color:#4CAF50;">✔ 10+ Enterprise-Grade Projects</strong> <span style="color:#aaa;">deployed at scale</span></p>
