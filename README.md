@@ -106,7 +106,9 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
   <a href="mailto:daviswabwile@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://davisportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
+
 ---
+
 <p>
   <b><span style="color:purple;">"Turning ideas into reality,</span> <span style="color:red;">one line of code at a time."</span></b>  
   <br/>
