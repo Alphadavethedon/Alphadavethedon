@@ -1,8 +1,8 @@
 <!-- Header Banner -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=200&section=header&text=Davis%20Wabwile&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&fontAlign=50&desc=Cloud%20%26%20DevOps%20Engineer%20•%20Fullstack%20Developer%20•%20IT%20%26%20Cybersecurity%20Specialist&descSize=18&descAlignY=55" alt="Davis Wabwile Banner" />
 </p>
-
 
 ---
 
