@@ -107,6 +107,13 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
   <a href="https://davisportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
+
+> 💡 *"Turning ideas into reality, one line of code at a time."* — **Davis Wabwile**
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=500&lines=Thanks+for+visiting+my+profile!" alt="Thanks message" />
+</p>
+
 ---
 
 <!-- Footer Banner -->
