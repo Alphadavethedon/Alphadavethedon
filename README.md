@@ -109,11 +109,7 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 
 ---
 
-<p>
-  <b><span style="color:purple;">"Turning ideas into reality,</span> <span style="color:red;">one line of code at a time."</span></b>  
-  <br/>
-  — <i>Davis Wabwile</i>
-</p>
+![Quote](https://readme-quote-generator.vercel.app/api?quote=Turning%20ideas%20into%20reality,%20one%20line%20of%20code%20at%20a%20time.&author=Davis%20Wabwile&color1=purple&color2=red)
 
 
 <!-- Footer Banner -->
