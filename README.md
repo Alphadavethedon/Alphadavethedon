@@ -18,14 +18,17 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: center; gap: 20px; margin: 10px 0;">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="150" style="border-radius: 8px; border: 2px solid #1e90ff;">
+<div style="display: flex; align-items: center; gap: 30px; margin: 15px 0;">
+  <!-- GIF (maintains original size) -->
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220" style="border-radius: 10px; border: 3px solid #1e90ff; box-shadow: 0 4px 8px rgba(30,144,255,0.2);">
   
-  <div>
-    <p style="margin: 0; font-size: 16px; line-height: 1.5;">
-      <strong style="color: #1e90ff;">Results-driven IT Engineer</strong> specializing in<br>
-      <strong>Cloud Infrastructure</strong> • <strong>DevOps</strong> • <strong>Fullstack Development</strong><br>
-      Building <strong>secure, scalable systems</strong> with <strong>elegant UI/UX</strong>
+  <!-- Text Content -->
+  <div style="flex: 1;">
+    <h3 style="margin: 0 0 10px 0; color: #1e90ff;">Results-driven IT Engineer</h3>
+    <h4 style="margin: 0 0 8px 0; color: #ffffff;">Cloud Infrastructure • DevOps • Fullstack Development</h4>
+    <p style="margin: 0; font-size: 15px; line-height: 1.5;">
+      Building <strong>secure, scalable systems</strong> with <strong>elegant UI/UX</strong>.
+      Specializing in automated cloud solutions and performant applications.
     </p>
   </div>
 </div>
