@@ -18,18 +18,14 @@
   </a>
 </p>
 
-<div style="display: flex; align-items: center; gap: 1.5rem; margin: 1rem 0; flex-wrap: wrap;">
-  <!-- Compact GIF -->
-  <div style="flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="140" style="border-radius: 6px; border: 2px solid #1e90ff;">
-  </div>
+<div style="display: flex; align-items: center; gap: 20px; margin: 10px 0;">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="150" style="border-radius: 8px; border: 2px solid #1e90ff;">
   
-  <!-- Text Content -->
-  <div style="flex: 1; min-width: 250px;">
-    <p style="margin: 0; font-size: 1rem; line-height: 1.5;">
-      <span style="font-weight: 600; color: #1e90ff;">Results-driven IT Engineer</span> specializing in 
-      <strong>Cloud</strong>, <strong>DevOps</strong>, and <strong>Fullstack</strong>.
-      I build <strong>secure, scalable systems</strong> with <strong>elegant UI/UX</strong>.
+  <div>
+    <p style="margin: 0; font-size: 16px; line-height: 1.5;">
+      <strong style="color: #1e90ff;">Results-driven IT Engineer</strong> specializing in<br>
+      <strong>Cloud Infrastructure</strong> • <strong>DevOps</strong> • <strong>Fullstack Development</strong><br>
+      Building <strong>secure, scalable systems</strong> with <strong>elegant UI/UX</strong>
     </p>
   </div>
 </div>
