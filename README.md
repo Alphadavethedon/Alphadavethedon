@@ -110,10 +110,21 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 
 >  *"Relentless and unstoppable in vision."*  — **Davis Wabwile**
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0000FF&width=600&lines=THANK+YOU+FOR+VISITING+MY+PROFILE!;LET'S+BUILD+SOMETHING+AMAZING+WITH+A+TOUCH+OF+MYSTERY+AND+MADNESS!" alt="Thanks message" />
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40">
+    <text x="100%" y="30" font-size="20" fill="blue">
+      THANK YOU FOR VISITING MY PROFILE!
+    </text>
+    <animate attributeName="x" from="100%" to="-100%" dur="8s" repeatCount="indefinite" />
+  </svg>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40">
+    <text x="100%" y="30" font-size="20" fill="red">
+      LET'S BUILD SOMETHING AMAZING WITH A TOUCH OF MYSTERY AND MADNESS!
+    </text>
+    <animate attributeName="x" from="100%" to="-200%" dur="12s" repeatCount="indefinite" />
+  </svg>
 </p>
-
 
 ---
 
