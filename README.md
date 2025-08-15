@@ -17,16 +17,19 @@
   </a>
 </p>
 
-<div align="center" style="display: flex; align-items: center; gap: 2rem; margin: 1rem 0;">
-  <div style="flex: 1;">
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220" alt="Coding animation" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+<div style="display: flex; flex-direction: column-reverse; align-items: center; gap: 1.5rem; margin: 1.5rem 0;">
+  <!-- Text Content -->
+  <div style="background: rgba(13,17,23,0.7); padding: 1.5rem; border-radius: 12px; border-left: 4px solid #1e90ff; width: 100%;">
+    <p style="margin: 0; font-size: 1.05rem; line-height: 1.6;">
+      <span style="display: block; margin-bottom: 0.5rem; font-weight: 600; color: #1e90ff;">Results-driven IT Engineer</span>
+      Specializing in <strong>Cloud Infrastructure</strong>, <strong>DevOps Automation</strong>, and <strong>Fullstack Development</strong>.
+      I architect <strong>secure, scalable systems</strong> with <strong>polished UI/UX</strong>.
+    </p>
   </div>
   
-  <div style="flex: 2; text-align: left;">
-    <p style="font-size: 1.1rem; line-height: 1.6;">
-      Results-driven <strong>IT Support Engineer</strong> skilled in <strong>Cloud Infrastructure</strong>, <strong>DevOps</strong>, <strong>Fullstack Development</strong>, <strong>Data Engineering</strong>, and <strong>AI Engineering</strong>.<br><br>
-      I deliver <strong>secure, automated, and scalable systems</strong> with a touch of <strong>elegant UI/UX</strong>.
-    </p>
+  <!-- Animated GIF -->
+  <div style="align-self: flex-start;">
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="180" style="border-radius: 8px; border: 2px solid #1e90ff; box-shadow: 0 4px 12px rgba(30,144,255,0.2);">
   </div>
 </div>
 
