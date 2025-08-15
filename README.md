@@ -26,16 +26,6 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 </div>
 
 
-<div align="center" style="line-height:1.1;">
-  <p><strong style="color:#4CAF50;">✔ 10+ Enterprise-Grade Projects</strong> <span style="color:#aaa;">deployed at scale</span></p>
-  <hr style="width:45%;border:0;border-top:1px solid #444;margin:2px 0;">
-  <p><strong style="color:#2196F3;">✔ Zero Trust Architectures</strong> <span style="color:#aaa;">& GitOps workflows</span></p>
-  <hr style="width:45%;border:0;border-top:1px solid #444;margin:2px 0;">
-  <p><strong style="color:#FF9800;">✔ Open-Source AI</strong> <span style="color:#aaa;">& cloud-native contributions</span></p>
-  <hr style="width:45%;border:0;border-top:1px solid #444;margin:2px 0;">
-  <p><strong style="color:#9C27B0;">✔ Automation-First Pipelines</strong> <span style="color:#aaa;">driving efficiency</span></p>
-</div>
-
 ---
 
 ## 💻 Tech Stack
