@@ -108,8 +108,11 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 </p>
 
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=500&lines=Thanks+you+for+visiting+my+profile!" alt="Thanks message" />
+>  *"Relentless in code, unstoppable in vision."*
+> — **Davis Wabwile**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Alphadavethedon/assets/main/thanks-scroll.svg" alt="Thanks for visiting my profile" />
 </p>
 
 ---
