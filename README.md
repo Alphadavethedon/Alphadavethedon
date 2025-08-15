@@ -1,9 +1,3 @@
-<div align="center" style="position:relative;">
-  <!-- Graffiti Background (Positioned Absolutely) -->
-  <div style="position:absolute; top:0; left:0; width:100%; height:100%; z-index:-1; opacity:0.15;">
-    <img src="https://raw.githubusercontent.com/Alphadavethedon/Alphadavethedon/main/assets/graffiti-bg.png" width="100%" style="object-fit:cover; min-height:100vh;">
-  </div>
-  
 <!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Davis%20Wabwile&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="header" />
