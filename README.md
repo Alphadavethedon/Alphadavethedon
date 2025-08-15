@@ -112,7 +112,7 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Crafting+Scalable+Systems+with+Precision;Innovating+with+Clean+Code+and+Best+Practices;Let's+Build+Something+Amazing+Together" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Thanks+For+Visting+My+GitHub+Profile!;Crafting+Scalable+Systems+with+Precision;Innovating+with+Clean+Code+and+Best+Practices;Let's+Build+Something+Amazing+Together" alt="Typing SVG" />
   </a>
 </p>
 
