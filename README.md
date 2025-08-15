@@ -9,27 +9,31 @@
 
 ## About Me
 
-<p align="left">
-  <a href="https://github.com/Alphadavethedon">
-    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Views&color=1e90ff&style=flat-square&labelColor=0d1117" alt="Profile Views" height="24">
-  </a>
-  <a href="https://buymeacoffee.com/davewabwile" target="_blank">
-    <img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000&labelColor=0d1117" alt="Buy Me A Coffee" height="24">
-  </a>
-</p>
+<div align="center">
+  <!-- Badges -->
+  <p>
+    <a href="https://github.com/Alphadavethedon">
+      <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Views&color=1e90ff&style=flat-square&labelColor=0d1117" alt="Profile Views" height="24">
+    </a>
+    <a href="https://buymeacoffee.com/davewabwile" target="_blank">
+      <img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000&labelColor=0d1117" alt="Buy Me A Coffee" height="24">
+    </a>
+  </p>
 
-<div style="display: flex; align-items: center; gap: 30px; margin: 15px 0;">
-  <!-- GIF (maintains original size) -->
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220" style="border-radius: 10px; border: 3px solid #1e90ff; box-shadow: 0 4px 8px rgba(30,144,255,0.2);">
-  
-  <!-- Text Content -->
-  <div style="flex: 1;">
-    <h3 style="margin: 0 0 10px 0; color: #1e90ff;">Results-driven IT Engineer</h3>
-    <h4 style="margin: 0 0 8px 0; color: #ffffff;">Cloud Infrastructure • DevOps • Fullstack Development</h4>
-    <p style="margin: 0; font-size: 15px; line-height: 1.5;">
-      Building <strong>secure, scalable systems</strong> with <strong>elegant UI/UX</strong>.
-      Specializing in automated cloud solutions and performant applications.
-    </p>
+  <!-- Centered Content Box -->
+  <div style="display: inline-flex; align-items: center; gap: 30px; max-width: 800px; margin: 0 auto; text-align: left;">
+    <!-- GIF (original size) -->
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220" style="border-radius: 10px; border: 3px solid #1e90ff;">
+
+    
+    <div>
+      <h3 style="margin: 0 0 10px 0; color: #1e90ff;">Results-driven IT Engineer</h3>
+      <h4 style="margin: 0 0 8px 0; color: #ffffff;">Cloud Infrastructure • DevOps • Fullstack Development</h4>
+      <p style="margin: 0; font-size: 15px; line-height: 1.5;">
+        Building <strong>secure, scalable systems</strong> with <strong>elegant UI/UX</strong>.
+        Specializing in automated cloud solutions and performant applications.
+      </p>
+    </div>
   </div>
 </div>
 
