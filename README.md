@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/davis-banner.png" alt="Davis Wabwile Banner" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/davis-banner.png" alt="Davis Wabwile Banner"/>
 </p>
 
 ---
