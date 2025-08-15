@@ -9,21 +9,29 @@
 
 ## About Me
 
-
 <p align="left">
   <a href="https://github.com/Alphadavethedon">
-    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Views&color=1e90ff&style=flat-square&labelColor=0d1117" alt=" Profile Views" height="24">
+    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Views&color=1e90ff&style=flat-square&labelColor=0d1117" alt="Profile Views" height="24">
   </a>
   <a href="https://buymeacoffee.com/davewabwile" target="_blank">
-    <img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000&labelColor=0d1117" alt=" Buy Me A Coffee" height="24">
+    <img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000&labelColor=0d1117" alt="Buy Me A Coffee" height="24">
   </a>
 </p>
 
-Results-driven **IT Support Engineer** skilled in **Cloud Infrastructure**, **DevOps**, **Fullstack Development**, **Data Engineering**, and **AI Engineering**.  
-I deliver **secure, automated, and scalable systems** with a touch of **elegant UI/UX**.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220" alt="Coding animation placeholder" />
+<div style="display: flex; align-items: center; gap: 1.5rem; margin: 1rem 0; flex-wrap: wrap;">
+  <!-- Compact GIF -->
+  <div style="flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="140" style="border-radius: 6px; border: 2px solid #1e90ff;">
+  </div>
+  
+  <!-- Text Content -->
+  <div style="flex: 1; min-width: 250px;">
+    <p style="margin: 0; font-size: 1rem; line-height: 1.5;">
+      <span style="font-weight: 600; color: #1e90ff;">Results-driven IT Engineer</span> specializing in 
+      <strong>Cloud</strong>, <strong>DevOps</strong>, and <strong>Fullstack</strong>.
+      I build <strong>secure, scalable systems</strong> with <strong>elegant UI/UX</strong>.
+    </p>
+  </div>
 </div>
 
 ---
