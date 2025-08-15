@@ -10,15 +10,14 @@
 ## About Me
 
 <p align="left">
-  <a href="https://github.com/Alphadavethedon">
-    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" height="30" />
+  <a href="https://github.com/Alphadavethedon" style="display: inline-flex; align-items: center; text-decoration: none; margin-right: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=PROFILE+VIEWS&color=1e90ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views" style="height: 30px; width: auto; filter: drop-shadow(0 0 5px rgba(30,144,255,0.4)); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://buymeacoffee.com/davewabwile" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" />
+  
+  <a href="https://buymeacoffee.com/davewabwile" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black&labelColor=0d1117" alt="Buy Me A Coffee" style="height: 30px; width: auto; filter: drop-shadow(0 0 5px rgba(255,221,0,0.4)); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
 </p>
-
 
 Results-driven **IT Support Engineer** skilled in **Cloud Infrastructure**, **DevOps**, **Fullstack Development**, **Data Engineering**, and **AI Engineering**.  
 I deliver **secure, automated, and scalable systems** with a touch of **elegant UI/UX**.
