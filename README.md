@@ -1,27 +1,9 @@
 <!-- Header Banner -->
-<div align="center" style="position:relative; background: url('https://i.imgur.com/graffiti-bg.jpg') center/cover no-repeat; padding: 2rem; border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Davis%20Wabwile&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="header" />
+</p>
 
-  <!-- Semi-transparent overlay -->
-  <div style="background: rgba(13,17,23,0.85); padding: 3rem; border-radius: 12px;">
-
-    <!-- Profile Picture with Fade Effect -->
-    <div style="width: 180px; height: 180px; margin: 0 auto 2rem; border-radius: 50%; background: linear-gradient(45deg, #1e90ff, #ff1493); padding: 5px;">
-      <img src="https://avatars.githubusercontent.com/u/YOUR_PROFILE_ID" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; border: 3px solid white;" alt="Davis Wabwile"/>
-    </div>
-
-    <!-- Your Existing Content -->
-    <h1 style="color: white; font-size: 2.5rem; margin-bottom: 0.5rem; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">
-      Davis Wabwile
-    </h1>
-    <p style="color: #aaa; font-size: 1.2rem; margin-bottom: 2rem;">
-      Cloud & DevOps Engineer • Fullstack Developer • IT & Cybersecurity Specialist
-    </p>
-
-    <!-- Rest of your README content goes here -->
-    <!-- Keep all your existing sections -->
-
-  </div>
-</div>
+<p align="center"><b>Cloud & DevOps Engineer • Fullstack Developer • IT & Cybersecurity Specialist</b></p>
 
 ---
 
