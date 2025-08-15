@@ -111,7 +111,8 @@ I deliver **secure, automated, and scalable systems** with a touch of **elegant 
 >  *"Relentless in code, unstoppable in vision."*  — **Davis Wabwile**
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=500&lines=Thanks+you+for+visiting+my+profile!" alt="Thanks message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0000FF&width=600&lines=THANK+YOU+FOR+VISITING+MY+PROFILE!" alt="Thanks message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=600&lines=LET'S+BUILD+SOMETHING+AMAZING+WITH+A+TOUCH+OF+MYSTERY+AND+MADNESS!" alt="Thanks message" />
 </p>
 
 ---
