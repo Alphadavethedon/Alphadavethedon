@@ -14,7 +14,7 @@
   <a href="https://github.com/Alphadavethedon">
     <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Views&color=1e90ff&style=flat-square&labelColor=0d1117" alt=" Profile Views" height="24">
   </a>
-  <a href="buymeacoffee.com/davewabwile" target="_blank">
+  <a href="https://buymeacoffee.com/davewabwile" target="_blank">
     <img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000&labelColor=0d1117" alt=" Buy Me A Coffee" height="24">
   </a>
 </p>
