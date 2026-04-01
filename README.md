@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Davis%20Wabwile&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff" alt="header" />
 </p>
 
-<p align="center"><b>Cloud & DevOps Engineer • Fullstack Developer • IT & Cybersecurity Specialist</b></p>
+<p align="center"><b>Cloud & DevOps Engineer • Fullstack Developer • IT & Systems Engineer </b></p>
 
 ---
 
