@@ -53,37 +53,48 @@ Currently leading cloud, infrastructure, and software initiatives through Alphar
 
 ## Featured Projects
 ### 🛡 WorkGuard360 – Workplace Compliance & Security
-> MERN-based compliance & biometric monitoring with real-time logs, violation detection, dashboards, and alerts.  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://workguard360.vercel.app) 
+> MERN-based compliance & biometric monitoring with real-time logs, violation detection, dashboards, and alerts.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://workguard360.vercel.app)
+
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/Workguard360)
 
 ###  AlphardHire
 > Enterprise recruitment and talent management platform featuring applicant tracking, candidate pipelines, interview workflows, role-based access control, analytics, and operational automation.
 
 **Tech Stack:** Next.js • Supabase • PostgreSQL • TypeScript • Vercel
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://github.com/Alphadavethedon/AlphardHire-Ops)  
+
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/AlphardHire-Ops)
 
 ###  🏢 Alphard IT Solutions
-> Cloud consulting, infrastructure management, technical support, managed services, and automation solutions for growing businesses. 
+> Cloud consulting, infrastructure management, technical support, managed services, and automation solutions for growing businesses.
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://alphardit.com)  
+
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/Alphard-IT-Solutions-LTD)
 
 ###  ⚡ Betting Architecture in Go
 > Distributed systems architecture demonstrating event-driven design, concurrency patterns, service communication, fault tolerance, and scalable backend engineering.
 
 **Tech Stack:** Go • Microservices • Distributed Systems
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://github.com/Alphadavethedon/Betting-architecture-in-go)  
+
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/Betting-architecture-in-go)
 
 ###  Kenya AI Clinical Reasoning Challenge
 > Healthcare AI clinical reasoning.  
-[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/kenya-clinical-reasoning-challenge)  
+[![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/kenya-clinical-reasoning-challenge)
+ 
 [![Colab](https://img.shields.io/badge/Open_in-Colab-F9AB00?logo=google-colab)](https://colab.research.google.com/drive/1w4WfgLFlHjdQCGI5he4jTTUKGwG-Dh_e) [![Zindi](https://img.shields.io/badge/Zindi-Certificate-8A2BE2)](https://zindi.africa/users/DonDave/competitions/certificate)
 
 ### ☁️ Cloud Operations Reporting Platform
 > Automated operational reporting system that consolidates infrastructure data, monitoring insights, and operational metrics into executive-ready reports.
+
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/AI-Powered-CloudOps-Daily-Report-Generator)  
+
 [![Colab](https://img.shields.io/badge/Open_in-Colab-F9AB00?logo=google-colab)](https://colab.research.google.com/drive/1w4WfgLFlHjdQCGI5he4jTTUKGwG-Dh_e) [![Zindi](https://img.shields.io/badge/Zindi-Certificate-8A2BE2)](https://zindi.africa/users/DonDave/competitions/certificate)
 
 ###  Cloud Automation Toolkit
