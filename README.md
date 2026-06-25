@@ -64,7 +64,7 @@ Currently leading cloud, infrastructure, and software initiatives through Alphar
 
 **Tech Stack:** Next.js • Supabase • PostgreSQL • TypeScript • Vercel
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://github.com/Alphadavethedon/AlphardHire-Ops)  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](file:///home/don-dave/Downloads/alphardops-showcase.html)  
 
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/AlphardHire-Ops)
 
@@ -127,21 +127,6 @@ Kubernetes                  █████████████████ 
 Terraform                   ████████████████     80%
 Go Development              ███████████████      75%
 ```
-
----
-
-## Current Areas of Interest
-
-* Cloud Infrastructure Engineering
-* Platform Engineering
-* Kubernetes & Container Orchestration
-* Infrastructure as Code
-* Observability & Monitoring
-* Reliability Engineering
-* Enterprise Support Operations
-* Cloud Security
-* Automation Engineering
-* SaaS Platforms
 
 ---
 
