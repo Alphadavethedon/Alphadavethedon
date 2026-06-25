@@ -145,35 +145,6 @@ Go Development              ███████████████      7
 
 ---
 
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/davis-wabwile-53238221a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:davisswabwile@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://alphardit.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building reliable systems, improving operations, and delivering technology that scales.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-
----
-
 ## Articles
 - [Modern Back-End Systems](https://medium.com/@davewabwile/mastering-modern-backend-systems-a-practical-guide-to-apis-architecture-and-scalability-02f6501f7792)  
 - [Zero Trust Architectures for Kubernetes](https://medium.com/@davewabwile)  
