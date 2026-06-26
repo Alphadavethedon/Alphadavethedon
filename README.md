@@ -14,9 +14,6 @@
   <a href="https://github.com/Alphadavethedon">
     <img src="https://komarev.com/ghpvc/?username=Alphadavethedon&label=Views&color=1e90ff&style=flat-square&labelColor=0d1117" alt=" Profile Views" height="24">
   </a>
-  <a href="https://buymeacoffee.com/davewabwile" target="_blank">
-    <img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000&labelColor=0d1117" alt=" Buy Me A Coffee" height="24">
-  </a>
 </p>
 
 Results-driven Cloud & DevOps Engineer with 8+ years of experience delivering cloud infrastructure, technical support, systems administration, automation, and enterprise technology solutions.
@@ -29,7 +26,6 @@ Currently leading cloud, infrastructure, and software initiatives through Alphar
 <div align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="220" alt="Coding animation placeholder" />
 </div>
-
 
 ---
 
@@ -57,6 +53,11 @@ Currently leading cloud, infrastructure, and software initiatives through Alphar
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://workguard360.vercel.app)
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/Workguard360)
+
+### Modern Classic Furniture Infrastructure
+> Ongoing infrastructure administration and technical support engagement involving systems management, cloud services, networking, security controls, business applications, and operational support.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click-brightgreen?style=for-the-badge)](https://modernfunitures.com)
 
 ###  AlphardHire
 > Enterprise recruitment and talent management platform featuring applicant tracking, candidate pipelines, interview workflows, role-based access control, analytics, and operational automation.
@@ -89,7 +90,7 @@ Currently leading cloud, infrastructure, and software initiatives through Alphar
 > Automated operational reporting system that consolidates infrastructure data, monitoring insights, and operational metrics into executive-ready reports.
 
 [![GitHub](https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Alphadavethedon/AI-Powered-CloudOps-Daily-Report-Generator)  
-[![Colab](https://img.shields.io/badge/Open_in-Colab-F9AB00?logo=google-colab)](https://colab.research.google.com/drive/1w4WfgLFlHjdQCGI5he4jTTUKGwG-Dh_e) [![Zindi](https://img.shields.io/badge/Zindi-Certificate-8A2BE2)](https://zindi.africa/users/DonDave/competitions/certificate)
+
 
 ###  Cloud Automation Toolkit
 **DevOps scripts & CI/CD templates** for rapid cloud deployments.  
